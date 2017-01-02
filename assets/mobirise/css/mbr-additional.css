@@ -548,6 +548,13 @@ h6,
 #menu-1 .close-icon::after {
   background-color: #ffffff;
 }
+#header1-9 .mbr-section-title {
+  font-size: 36px;
+}
+#header1-9 .mbr-section-lead {
+  font-size: 22px;
+  color: #ffffff;
+}
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
