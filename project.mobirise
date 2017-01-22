@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "WV7Intro.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 10,
+    "uniqCompNum": 19,
     "versionPublish": "3.10.3",
     "favicon": "",
     "noImageResize": ""
@@ -46,10 +46,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f7da64"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#f7da64"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -70,7 +70,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f7da64",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -90,16 +90,16 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f7da64"
             }
           },
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#f7da64",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -123,11 +123,16 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ASTROLOGY <br>CLASSES<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" target=\"_blank\">Dasas &amp; Periodes en Astrologie<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KutasTable.html\" target=\"_blank\">Table de Kutas, Compatibilité en Mariage<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA <br>SOFTWARE<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7intro.html\" target=\"_blank\">Win*Vega Latest Info<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blockss</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ASTROLOGY <br>CLASSES<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" target=\"_blank\">Dasas &amp; Periodes en Astrologie<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KutasTable.html\" target=\"_blank\">Table de Kutas, Compatibilité en Mariage<br><br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WIN*VEGA <br>SOFTWARE<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7intro.html\" target=\"_blank\">Win*Vega Latest Info<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blockss</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "46px"
+            }
+          },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
@@ -150,12 +155,7 @@
           },
           "title": "Jyotish, Hindu Astrology",
           "text": "<br>This site presents Hindu (or Vedic, &nbsp;Jyotish) Astrology, various articles, links, and the Winvega software.  The astrology research here is based on the classic \"Brihat Parasara Hora Sastra\" and Upadesa Sutra by Jaimini.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "46px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
         {
           "_name": "footer1",
@@ -211,94 +211,6 @@
         "meta_descr": ""
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-5",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ASTROLOGY <br>CLASSES<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" target=\"_blank\">Dasas &amp; Periodes en Astrologie<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KutasTable.html\" target=\"_blank\">Table de Kutas, Compatibilité en Mariage<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA <br>SOFTWARE<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7intro.html\" target=\"_blank\">Win*Vega Latest Info<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blockss</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
         {
           "_name": "footer1",
           "_anchor": "footer1-6",
@@ -381,7 +293,7 @@
           "_anchor": "menu-7",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -493,7 +405,7 @@
           "_anchor": "menu-1",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -543,14 +455,23 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "22px",
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "header1-9",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
+            "bgColor": "#475577",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -564,17 +485,8 @@
             "showButtons": true
           },
           "title": "Périodes zodiacales et planétaires",
-          "text": "Rév. Déc. 2016<br><br><b>SUR LES PÉRIODES</b><br><br>Il existe en astrologie plusieurs cycles de vies, ou \"périodes\" associées à des planètes. A la différence des transits ou directions, ces périodes ont une durée, de plusieurs jours à plusieurs années, alors que les directions modernes sont des systèmes ponctuels. Ces périodes ou \"durées\" sont sous l'influence ou la supervision d'une planète ou plusieurs planètes, parfois d'un signe du zodiaque, et d'autres fois, des demeures lunaires. <br>Ces systèmes de périodes sont bien connus des Hindous qui ont de nombreux systèmes, dont les Vimshottari Dashas que nous donnons ici (Voir Dasa &amp; Bhukti). <br>Cependant la tradition occidentale possèdait aussi plusieurs systèmes de périodes, certaines planétaires, certaines zodiacales. Comme exemple, les Sept Ages de l'Homme encore un peu connus (dont une traduction est disponible ici). <br><br><br>L'intéret des système de périodes est énorme et non anecdotique, car les auteurs anciens insiste beaucoup sur le fait que les périodes sont plus importantes en prédiction que les transits ou progressions, à la différence de la pratique moderne. Il faut avoir ainsi été surpris par les commentaires des anciens auteurs plus d'une fois pour se mettre à comprendre que le langage des auteurs modernes consistant à se concentrer presque exclusivement sur les transits et directions est une pratique très récente en astrologie : les transits étaient auparavant dépendant des périodes, subordonnés aux périodes. Dans la pratique hindoue, ce fait est clair et approuvé. Les périodes sont toujours calculés, ensuite on intégre les transits, mais même les hindous suggèrent souvent, comme le fait K.N. Rao le astrologue hindou, de n'employer les transits qu'avec l'aide d'une table de calcul de leur force (Ashtaka Varga) de façon à éviter les erreurs, mais surtout, de considérer les périodes comme plus importante !! Les transits ont pour tâche de renforcer ce que les périodes doivent indiquer, et de préciser les moments dans le temps, non de donner l'évènement. <br><br><br>Ici nous introduisons les périodes zodiacales Aphètiques, fondées sur les signes du zodiaque, les Périodes des 1/4 des périodes mineures de Valens, et depuis juillet 97, les décenniales, un tout petit peu mieux connues. La version 4.2 introduit un autre système de périodes hindoues très important, le Chara Dasa. Ces techniques sont si mal connues des astrologues modernes qu'il n'est pas inutile de les commenter ici. <br><br><br><br><b>LES PÉRIODES APHÉTIQUES GRECQUES</b><br><br>Les périodes aphétiques depuis les Lots proviennent des écrits de Vettius Valens: son \"Anthologie\", Livre IV. Depuis la version 1.75 j'ai inséré un long extrait traduit de ce texte, appellé \"Périodes Aphétiques\" (disponible ici) <br><br>Les autres périodes fondamentales de l'astrologie Grecque sont les directions primaires, dont nous donnons deux systèmes depuis la version 2, et qui étaient plus que des directions dans le sens moderne. Elles étaient aussi un système de périodes. <br><br>Un Aphète est un mot à plusieurs sens mais ici l'Aphète est la planète régente du Lot que l'on considère pour la période et qui va initier le cycle des périodes. Cette planète obtient la durée de sa période mineure ou courte. (Voir les \"Tables et Périodes\"). On démarre le cycle de période avec le le signe du Lot de Fortune si l'on souhaite se renseigner sur ce qui doit arriver de manière passive à l'individu, les évènements auquel on est soumis par la direction de notre vie (le sens plus karmique du Lot de Fortune, associé à la Lune), ou depuis le Lot d'Esprit, qui est plus solaire et actif et qui donne un évènement venant d'une action initiée par la personne. Ce lot informe sur les actions (Praxis), la profession ou les conséquences découlant de nos actions. <br><br>On prend la durée du cycle court de la planète Seigneure de domicile du Lot, elle donne ses années. Le signe suivant le Lot dans l'ordre habituel des signes aura la deuxième période avec les années de sa planète maîtresse etc...<br><br>Les Lots de Fortune et d'esprit avait une importance capitale chez les anciens, puisqu'ils sont construit par les 3 points les plus importants de la carte du ciel, le soleil, la lune et l'ascendant. C'est pourquoi ils sont jugés dignes, en plus de leur symbolisme intrinsèque, de signifier des durées, ou des tranches de vies, en années et en mois. <br><br>Les changements de périodes ne sont pas aussi essentiels que les durées de temps ou tel ou tel maître de la période donne le ton. Les transits étaient ensuite seulement, inclus dans les interprétations, (voir les transits grecs) mais les périodes sont essentielles, et seuls certains transits étaient utilisés, ceux-là même des planètes qui sont aussi actives dans les périodes. <br><br><br>Exemple: <br>Votre Lot de Fortune tombe dans un signe dont la durée en année est donnée par sa planète régente. <br>Ainsi par exemple, un Lot de Fortune en sagittaire a un cycle est de 12 ans grâce à son maître Jupiter qui possède les 12 ans de son cycle court, ou \"petite période\". <br>Suivant cet exemple du Lot en sagittaire, les 12 premières années sont régies par le sagittaire, soit par Jupiter. On prend les suivantes par le signe qui succède, le capricorne, qui obtient 27 ans par son maître Saturne, ensuite 30 ans pour le Verseau par saturne également (qui a une durée plus longue chez Valens) etc... <br><br><br>Sous-périodes:<br>Ces périodes principales sont ensuite divisées en mois, suivant les mois solaires de 30 jours de l'astrologie Egyptienne. Les sous-périodes sont des divisions en 12 de la période principale correspondante, soit de la durée de sa planète. Comme Win*Véga offre le choix de l'année, (360 ou 365.25 jours) vous aurez des sous-périodes alignés sur votre année, soit des divisions en 12 depuis la longueur d'année choisie. Les mois font 30.4 jours pour une année de 365.25 jours, sinon 30 jours juste. <br>En commencant en sagittaire, les 12 premiers mois de cette période principale de 12 ans sont aussi régies par le sagittaire et jupiter. Les 27 mois suivant sont attribués à Saturne et le capricorne, les 30 mois suivant à saturne et le verseau etc. Ceci jusqu'à ce que la période principale du sagittaire termine et laisse la place au capricorne. Les 27 premiers mois de la période principale capricorne vont à nouveau au capricorne, les 30 mois suivants au verseau, puis les 12 suivants au poisson et jupiter etc... <br><br><br>Valens indique uniquement de prendre les Lots de Fortune et celui de L'Esprit pour ces périodes Aphètiques. Cependant nous laissons le choix de calculer aussi les périodes depuis les autres signes du zodiaque. Du reste Valens explique que si vous naissez en Nouvelle Lune, avec les Lots d'Esprit et de Fortune dans le même signe, il faut prendre le signe suivant cette lunaison pour les périodes de l'Esprit. <br><br>Note : Les sous-sous-périodes, soit le 3ème niveau de ces périodes sint disponibles comme elles le sont maintenant pour le Vimshotari Dasas Hindou. <br><br><br><br><b>3) L'ANNÉE ÉGYPTIENNE</b><br><br>Cette année est l'année civile de 360 jours, divisée en 12 mois de 30 jours exactement. Ces années  semblent \"inexactes\" corrrespondent a des succession égales de 30 jours jours ayant des connotations numérologique. Il n'est pas inutile de se rappeller que le corps vit des successions de jours continuels, que l'on peut comptabiliser en périodes. Du reste les Égyptiens savaient très bien que l'année solaire a 365,25 jours, puisqu'ils rythmaient l'année astronomique, astrologique, et \"religieuse\" sur l'étoile sirius, sur la récurrence de son lever héliaque qui prend presque exactement 365,25 jours, fait unique parmi toutes les étoiles du ciel. <br><br>Ce \"problème\" de la durée de l'année se retrouve aussi pour la conversion du pas de l'année en direction primaire, ou avec les autres systèmes de directions modernes. <br>Mais les périodes sont donc construites sur des succession régulières de jours, lesquels sont alignés sur une année \"idéale\" qui épouse les 360 degrés du cercle zodiacal, tandis que les sous-périodes suivent les 30 degrés des signes. <br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "36px"
-            },
-            ".mbr-section-lead": {
-              "font-size": "22px",
-              "color": "#ffffff"
-            }
-          }
+          "text": "Rév. Déc. 2016<br><br><b><a href=\"#top\">Périodes Aphètiques</a></b><br><b><a href=\"DasasJyotish.html#header1-9\">L'Année Egyptienne</a><a href=\"#top\"><br></a></b><br><br><br><br><b>SUR LES PÉRIODES</b><br><br>Il existe en astrologie plusieurs cycles de vies, ou \"périodes\" associées à des planètes. A la différence des transits ou directions, ces périodes ont une durée, de plusieurs jours à plusieurs années, alors que les directions modernes sont des systèmes ponctuels. Ces périodes ou \"durées\" sont sous l'influence ou la supervision d'une planète ou plusieurs planètes, parfois d'un signe du zodiaque, et d'autres fois, des demeures lunaires. <br>Ces systèmes de périodes sont bien connus des Hindous qui ont de nombreux systèmes, dont les Vimshottari Dashas que nous donnons ici (Voir Dasa &amp; Bhukti). <br>Cependant la tradition occidentale possèdait aussi plusieurs systèmes de périodes, certaines planétaires, certaines zodiacales. Comme exemple, les Sept Ages de l'Homme encore un peu connus (dont une traduction est disponible ici). <br><br><br>L'intéret des système de périodes est énorme et non anecdotique, car les auteurs anciens insiste beaucoup sur le fait que les périodes sont plus importantes en prédiction que les transits ou progressions, à la différence de la pratique moderne. Il faut avoir ainsi été surpris par les commentaires des anciens auteurs plus d'une fois pour se mettre à comprendre que le langage des auteurs modernes consistant à se concentrer presque exclusivement sur les transits et directions est une pratique très récente en astrologie : les transits étaient auparavant dépendant des périodes, subordonnés aux périodes. Dans la pratique hindoue, ce fait est clair et approuvé. Les périodes sont toujours calculés, ensuite on intégre les transits, mais même les hindous suggèrent souvent, comme le fait K.N. Rao le astrologue hindou, de n'employer les transits qu'avec l'aide d'une table de calcul de leur force (Ashtaka Varga) de façon à éviter les erreurs, mais surtout, de considérer les périodes comme plus importante !! Les transits ont pour tâche de renforcer ce que les périodes doivent indiquer, et de préciser les moments dans le temps, non de donner l'évènement. <br><br><br>Ici nous introduisons les périodes zodiacales Aphètiques, fondées sur les signes du zodiaque, les Périodes des 1/4 des périodes mineures de Valens, et depuis juillet 97, les décenniales, un tout petit peu mieux connues. La version 4.2 introduit un autre système de périodes hindoues très important, le Chara Dasa. Ces techniques sont si mal connues des astrologues modernes qu'il n'est pas inutile de les commenter ici. <br><br><br><br><b><a href=\"#top\" class=\"text-white\">LES PÉRIODES APHÉTIQUES GRECQUES</a></b><br><br>Les périodes aphétiques depuis les Lots proviennent des écrits de Vettius Valens: son \"Anthologie\", Livre IV. Depuis la version 1.75 j'ai inséré un long extrait traduit de ce texte, appellé \"Périodes Aphétiques\" (disponible ici) <br><br>Les autres périodes fondamentales de l'astrologie Grecque sont les directions primaires, dont nous donnons deux systèmes depuis la version 2, et qui étaient plus que des directions dans le sens moderne. Elles étaient aussi un système de périodes. <br><br>Un Aphète est un mot à plusieurs sens mais ici l'Aphète est la planète régente du Lot que l'on considère pour la période et qui va initier le cycle des périodes. Cette planète obtient la durée de sa période mineure ou courte. (Voir les \"Tables et Périodes\"). On démarre le cycle de période avec le le signe du Lot de Fortune si l'on souhaite se renseigner sur ce qui doit arriver de manière passive à l'individu, les évènements auquel on est soumis par la direction de notre vie (le sens plus karmique du Lot de Fortune, associé à la Lune), ou depuis le Lot d'Esprit, qui est plus solaire et actif et qui donne un évènement venant d'une action initiée par la personne. Ce lot informe sur les actions (Praxis), la profession ou les conséquences découlant de nos actions. <br><br>On prend la durée du cycle court de la planète Seigneure de domicile du Lot, elle donne ses années. Le signe suivant le Lot dans l'ordre habituel des signes aura la deuxième période avec les années de sa planète maîtresse etc...<br><br>Les Lots de Fortune et d'esprit avait une importance capitale chez les anciens, puisqu'ils sont construit par les 3 points les plus importants de la carte du ciel, le soleil, la lune et l'ascendant. C'est pourquoi ils sont jugés dignes, en plus de leur symbolisme intrinsèque, de signifier des durées, ou des tranches de vies, en années et en mois. <br><br>Les changements de périodes ne sont pas aussi essentiels que les durées de temps ou tel ou tel maître de la période donne le ton. Les transits étaient ensuite seulement, inclus dans les interprétations, (voir les transits grecs) mais les périodes sont essentielles, et seuls certains transits étaient utilisés, ceux-là même des planètes qui sont aussi actives dans les périodes. <br><br><br>Exemple: <br>Votre Lot de Fortune tombe dans un signe dont la durée en année est donnée par sa planète régente. <br>Ainsi par exemple, un Lot de Fortune en sagittaire a un cycle est de 12 ans grâce à son maître Jupiter qui possède les 12 ans de son cycle court, ou \"petite période\". <br>Suivant cet exemple du Lot en sagittaire, les 12 premières années sont régies par le sagittaire, soit par Jupiter. On prend les suivantes par le signe qui succède, le capricorne, qui obtient 27 ans par son maître Saturne, ensuite 30 ans pour le Verseau par saturne également (qui a une durée plus longue chez Valens) etc... <br><br><br>Sous-périodes:<br>Ces périodes principales sont ensuite divisées en mois, suivant les mois solaires de 30 jours de l'astrologie Egyptienne. Les sous-périodes sont des divisions en 12 de la période principale correspondante, soit de la durée de sa planète. Comme Win*Véga offre le choix de l'année, (360 ou 365.25 jours) vous aurez des sous-périodes alignés sur votre année, soit des divisions en 12 depuis la longueur d'année choisie. Les mois font 30.4 jours pour une année de 365.25 jours, sinon 30 jours juste. <br>En commencant en sagittaire, les 12 premiers mois de cette période principale de 12 ans sont aussi régies par le sagittaire et jupiter. Les 27 mois suivant sont attribués à Saturne et le capricorne, les 30 mois suivant à saturne et le verseau etc. Ceci jusqu'à ce que la période principale du sagittaire termine et laisse la place au capricorne. Les 27 premiers mois de la période principale capricorne vont à nouveau au capricorne, les 30 mois suivants au verseau, puis les 12 suivants au poisson et jupiter etc... <br><br><br>Valens indique uniquement de prendre les Lots de Fortune et celui de L'Esprit pour ces périodes Aphètiques. Cependant nous laissons le choix de calculer aussi les périodes depuis les autres signes du zodiaque. Du reste Valens explique que si vous naissez en Nouvelle Lune, avec les Lots d'Esprit et de Fortune dans le même signe, il faut prendre le signe suivant cette lunaison pour les périodes de l'Esprit. <br><br>Note : Les sous-sous-périodes, soit le 3ème niveau de ces périodes sint disponibles comme elles le sont maintenant pour le Vimshotari Dasas Hindou. <br><br><br><br><b>L'ANNÉE ÉGYPTIENNE</b><br><br>Cette année est l'année civile de 360 jours, divisée en 12 mois de 30 jours exactement. Ces années  semblent \"inexactes\" corrrespondent a des succession égales de 30 jours jours ayant des connotations numérologique. Il n'est pas inutile de se rappeller que le corps vit des successions de jours continuels, que l'on peut comptabiliser en périodes. Du reste les Égyptiens savaient très bien que l'année solaire a 365,25 jours, puisqu'ils rythmaient l'année astronomique, astrologique, et \"religieuse\" sur l'étoile sirius, sur la récurrence de son lever héliaque qui prend presque exactement 365,25 jours, fait unique parmi toutes les étoiles du ciel. <br><br>Ce choix de la durée de l'année se retrouve aussi pour la conversion du pas de l'année en direction primaire, ou avec les autres systèmes de directions modernes. <br>Mais les périodes sont donc construites sur des succession régulières de jours, lesquels sont alignés sur une année \"idéale\" qui épouse les 360 degrés du cercle zodiacal, tandis que les sous-périodes suivent les 30 degrés des signes. <br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         }
       ]
     },
@@ -593,16 +505,16 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#f7da64"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#f7da64"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -617,7 +529,7 @@
               "background": "#282828"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#f7da64",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -637,16 +549,16 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#f7da64"
             }
           },
           "_name": "menu",
           "_anchor": "menu-3",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": 0.75,
+            "fontSize": "0.9",
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#f7da64",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -670,7 +582,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">ASTROLOGY <br>CLASSES<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" target=\"_blank\">Dasas &amp; Periodes en Astrologie<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KutasTable.html\" target=\"_blank\">Table de Kutas, Compatibilité en Mariage<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA <br>SOFTWARE<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7intro.html\" target=\"_blank\">Win*Vega Latest Info<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blockss</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ASTROLOGY <br>CLASSES<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" target=\"_blank\">Dasas &amp; Periodes en Astrologie<br><br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"KutasTable.html\" target=\"_blank\">Table de Kutas, Compatibilité en Mariage<br><br></a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WIN*VEGA <br>SOFTWARE<br><br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7intro.html\" target=\"_blank\">Win*Vega Latest Info<br><br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Trendy blockss</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -688,6 +600,45 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "25px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "18px",
+              "text-align": "left",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#1c4676",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "INTRO A WIN*VEGA",
+          "text": "<br><span style=\"font-style: normal;\">Rev. 27 Dec 2016, Montreal</span><br><br>Introduction<br><br>Le nouveau WinVega comprend des grosses nouveautés surtout sur le module Indien.  Le logiciel a peu changé pour les méthodes occidentales. &nbsp;Il fonctionne comme l'ancienne version.  Ce logiciel est riche et peut prendre du temps pour comprendre toutes les options.  Prenez le temps de vous familiariser avec le fonctionnement, cela ne sera sans doute pas instantanné.<br><span style=\"font-size: 18px; line-height: 1.5;\">La documentation va s'enrichir sous peu sur ce site, mais voici quelques indices :</span><br><br>Les novices en astrologie sont en 2 clans, ceux qui font de l'astrologie occidentalle, dite tropicale, et ceux qui font des cartes sidérale (astrologie Védique ou Hindoue). &nbsp; Winvega vient d'emblée en mode sidérale. &nbsp;Si vous voulez faire une carte tropicale occidentalle, allez dans les Options, puis cliquez Zodiaque, Zodiaque tropical.&nbsp;<br><br>Les cartes tropicales ou sidérales se font  de la meme facon qu'avant.  Avec le bouton Calculate this Chart.  Pour le bouton Surya Siddantha Graha voir paragraph 3.<br><br>La page des Options est très riche et peut etre consultée pour comprendre les possibilités.<br><br>Le module Indien a de nombreux boutons par clic-droit sur les controles disponibles, un peu partout.<br><br>Par ex sur les cartes (diamand ou en carré) un petit bouton au centre ouvre un sous menu par clic droit.   Toutes les divisions (Vargas) de Parasara sont disponibles.<br><br>Sur les listes de périodes un clic droit donne accès a de très nombreuses options.  Ce sous menu ouvre par ex. la panoplie des périodes Indiennes, Grecques etc.   Ces périodes et leur configuration sont la spécialité de Winvega.<br><br>N'hésitez pas a faire des clic droits un peu partout.  Il n'y a aucun danger pour la santé ;)<br><br>Les Vargas sont des thèmes spécialisés.  Le navamsa par ex. est le thème du mariage, de la prédilection spirituelle et dharmique d'une personne.   Comme pour les Sages de l'Inde la vie matérielle est moins omniprésente que dans notre civilisation, le navamsa est le thème le plus important.<br><br>Le dasamsa montre l'impact professionnel, les hauts et les bas.<br><br>Le saptamsa la thème de la dynastie, des enfants, de relations, rencontres etc<br><br>Voir les indications pour chaque varga.<br><br>Paragraf 3:  (facultatif)<br><br>Le bouton Surya Siddantha Graha ne fonctionne que si un thème a été sauvegardé auparavant grace au logiciel Kundalee.  Il faut faire une petite maneuvre avec l'Explorer de Windows pour renommer et replacer un petit fichier dans le dossier de Winvega, voici les détails :<br><br>Kundalee calcule des cartes selon la Surya Siddantha.  Ce procédé est unique, il n'existe aucun autre outil pour cette technique originale a l'astrologie ancienne.  Ces méthodes sacrées ne sont données qu'a de rares personnes dans ce monde ci. <br><br>il s'agit du calcul des vraies grahas (planètes en tant que divinités) qui se pratiquait probablement aussi en occident dans l'antiquité.  Ptolémée dans son Amalgeste décrit les 7 Sphères célestes qui sont la meme mécanique astrale du Surya Siddantha et des autres traités Siddantha de l'Inde.  Les scientifiques se sont heurtés a ces méthodes sans vraiment chercher a les comprendre, puisque l'astronomie n'est pas intéréssée par ce qui sort du domaine des sens physiques.   C'est pourquoi la mécanique physique astronomique, aussi décrite par le Surya S. a perdu de son coté, les formules physiques des planètes visibles, inutiles de son point de vue.  Seul l'astrologie ayant une portée dans nos vie, selon eux.<br><br>Il faut d'abord telecharger Kundalee, et apprendre a le manipuler, dresser des thèmes etc. Lorsque un thème est calculé et montré a l'écran, Kundalee place sur le disque (dans son dossier) un petit fichier : TRUEPLANETS.TXT.  Ceci contient les positions des planètes en tant que grahas.<br><br>(notez que nous avons deja placé dans le dossier de Winvega, plusieurs thèmes connus, (dont le mien) qui peuvent servir a vous familiariser avec ces grahas.  Ces thèmes SS deja prèts n'ont donc pas besoin de Kundalee.  Soyez sur d'avoir les coordonnées deja entrée dans les cases de dates, heures et latitudes, longitudes, avant de cliquer sur Surya Siddantha. Ceci pour le calcul des Maisons.)<br><br>Mais avec Kundalee, ce fichier Trueplanets.txt peut etre exploité par Winvega.  Commencer par renommer ce fichier ainsi :   TRUEPlanetsJean.TXT  ou bien TruePlanetsPaul.txt   <br><br>(garder les mots Trueplanets avec un nom, avec l'extention TXT)<br><br>Puis placer ce fichier dans le dossier de Winvega 7.   Ensuite ce fichier peut etre reconnu par Winvega.<br><br>N'oubliez pas que ce ficher Trueplanets.txt est temporaire et effacé dès lors qu'une autre carte est calculé avec Kundalee, ou si Kundalee est arrété.<br><br>Dans Winvega, il faudra ensuite rentrer les memes coordonnées de la meme personne.  La maneuvre complète est un un peu longue au début, mais après quelques manipulations, devient rapide.<br><br>Une fois ces coordonnées prètes dans Winvega, cliquez sur le bouton Surya Siddanta Graha.  Allez chercher le fichier TrueplanetsPaul.txt que vous aviez placé dans ce dossier de Winvega auparavant.   Une fois trouvée, faite un double clic dessus.  Cette carte est montrée l 'écran, identique a Kundalee, mais selon une présentation un peu plus aisée.<br><br>En bas a droite de la roue apparait le mot SuryaS qui indique des positions de planètes selon le mode Surya Siddantha.  Pour avoir la meme carte du ciel, choisissez les maisons Sripati.   Cette méthode est disponible aussi dans le m<br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         }
       ]
     }
