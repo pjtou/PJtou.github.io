@@ -625,6 +625,9 @@ h6,
   font-size: 22px;
   color: #ffffff;
 }
+#header1-9 .mbr-section-lead P {
+  color: #ffffff;
+}
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WV7Intro.html",
+    "currentPage": "index.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -440,6 +440,9 @@
             },
             ".mbr-section-lead": {
               "font-size": "22px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead P": {
               "color": "#ffffff"
             }
           },
