@@ -17,12 +17,13 @@
         "textFont": "Raleway",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": true,
+        "isRtl": false
       }
     },
     "versionFirst": "3.10.3",
     "uniqCompNum": 31,
-    "versionPublish": "3.10.3",
+    "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
   },
