@@ -563,11 +563,11 @@ h6,
   color: #ffffff;
 }
 #menu-3 .navbar-toggler {
-  color: #faaf40;
+  color: #6a3433;
 }
 #menu-3 .link,
 #menu-3 .dropdown-item {
-  color: #faaf40;
+  color: #6a3433;
 }
 #menu-3 .link {
   font-size: 0.85rem;
@@ -584,22 +584,22 @@ h6,
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-menu {
-  background: #e6e6e6;
+  background: #d6d6d6;
 }
 #menu-3 .nav-dropdown-sm .link:focus,
 #menu-3 .nav-dropdown-sm .link:hover,
 #menu-3 .nav-dropdown-sm .dropdown-item:focus,
 #menu-3 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #e7e7e7!important;
 }
 #menu-3 .navbar,
 #menu-3 .nav-dropdown-sm,
 #menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
 }
 #menu-3 .bg-color.transparent .link {
-  color: #faaf40;
+  color: #6a3433;
   transition: none;
 }
 #menu-3 .bg-color.transparent.opened .link {
@@ -611,7 +611,7 @@ h6,
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-item[aria-expanded="true"] {
-  color: #13203e!important;
+  color: #ffffff!important;
 }
 #menu-3.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -621,12 +621,12 @@ h6,
 }
 #menu-3 .close-icon::before,
 #menu-3 .close-icon::after {
-  background-color: #faaf40;
+  background-color: #6a3433;
 }
 #header1-d .mbr-section-title {
   font-size: 25px;
   color: #490c5f;
-  text-align: center;
+  text-align: left;
 }
 #header1-d .mbr-section-lead {
   font-size: 19px;
@@ -647,11 +647,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #cca508;
+  color: #6a3433;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #cca508;
+  color: #6a3433;
 }
 #menu-0 .link {
   font-size: 0.85rem;
@@ -668,22 +668,22 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-menu {
-  background: #e6e6e6;
+  background: #d6d6d6;
 }
 #menu-0 .nav-dropdown-sm .link:focus,
 #menu-0 .nav-dropdown-sm .link:hover,
 #menu-0 .nav-dropdown-sm .dropdown-item:focus,
 #menu-0 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #e7e7e7!important;
 }
 #menu-0 .navbar,
 #menu-0 .nav-dropdown-sm,
 #menu-0 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-0 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #cca508;
+  color: #6a3433;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -695,7 +695,7 @@ h6,
 }
 #menu-0 .link[aria-expanded="true"],
 #menu-0 .dropdown-item[aria-expanded="true"] {
-  color: #13203e!important;
+  color: #ffffff!important;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -705,7 +705,7 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #cca508;
+  background-color: #6a3433;
 }
 #menu-v .hide-buttons .nav-btn {
   display: none !important;
@@ -781,11 +781,11 @@ h6,
   color: #ffffff;
 }
 #menu-7 .navbar-toggler {
-  color: #cca508;
+  color: #6a3433;
 }
 #menu-7 .link,
 #menu-7 .dropdown-item {
-  color: #cca508;
+  color: #6a3433;
 }
 #menu-7 .link {
   font-size: 0.85rem;
@@ -802,22 +802,22 @@ h6,
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-menu {
-  background: #e6e6e6;
+  background: #d6d6d6;
 }
 #menu-7 .nav-dropdown-sm .link:focus,
 #menu-7 .nav-dropdown-sm .link:hover,
 #menu-7 .nav-dropdown-sm .dropdown-item:focus,
 #menu-7 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #e7e7e7!important;
 }
 #menu-7 .navbar,
 #menu-7 .nav-dropdown-sm,
 #menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-7 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
 }
 #menu-7 .bg-color.transparent .link {
-  color: #cca508;
+  color: #6a3433;
   transition: none;
 }
 #menu-7 .bg-color.transparent.opened .link {
@@ -829,7 +829,7 @@ h6,
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #13203e!important;
+  color: #ffffff!important;
 }
 #menu-7.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -839,7 +839,7 @@ h6,
 }
 #menu-7 .close-icon::before,
 #menu-7 .close-icon::after {
-  background-color: #cca508;
+  background-color: #6a3433;
 }
 #header5-y .mbr-section-title {
   color: #000;
@@ -849,4 +849,82 @@ h6,
 #header5-y .mbr-section-lead {
   color: #2a0737;
   font-size: 20px;
+}
+#menu-z .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-z .navbar-caption {
+  color: #ffffff;
+}
+#menu-z .navbar-toggler {
+  color: #6a3433;
+}
+#menu-z .link,
+#menu-z .dropdown-item {
+  color: #6a3433;
+}
+#menu-z .link {
+  font-size: 0.85rem;
+}
+#menu-z .dropdown-item,
+#menu-z .nav-dropdown-sm .link {
+  font-size: 0.921rem;
+}
+#menu-z .link:hover,
+#menu-z .dropdown-item:hover,
+#menu-z .link:focus,
+#menu-z .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-z .link[aria-expanded="true"],
+#menu-z .dropdown-menu {
+  background: #d6d6d6;
+}
+#menu-z .nav-dropdown-sm .link:focus,
+#menu-z .nav-dropdown-sm .link:hover,
+#menu-z .nav-dropdown-sm .dropdown-item:focus,
+#menu-z .nav-dropdown-sm .dropdown-item:hover {
+  background: #e7e7e7!important;
+}
+#menu-z .navbar,
+#menu-z .nav-dropdown-sm,
+#menu-z .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-z .nav-dropdown-sm .dropdown-menu {
+  background: #efefef;
+}
+#menu-z .bg-color.transparent .link {
+  color: #6a3433;
+  transition: none;
+}
+#menu-z .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-z .bg-color.transparent.opened .link:hover,
+#menu-z .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-z .link[aria-expanded="true"],
+#menu-z .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-z.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-z .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-z .close-icon::before,
+#menu-z .close-icon::after {
+  background-color: #6a3433;
+}
+#header5-13 .mbr-section-title {
+  color: #000;
+  text-align: center;
+}
+#header5-13 .mbr-section-lead {
+  color: #2a0737;
+  font-size: 20px;
+}
+#header5-13 .mbr-section-title SPAN {
+  font-size: 36px;
 }
