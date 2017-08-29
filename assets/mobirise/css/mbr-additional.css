@@ -484,12 +484,14 @@ h6,
 #header1-1 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
 }
+
 #header3-18 .mbr-section-title,
 #header3-18 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-18 .mbr-section-title {
   font-size: 36px;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
