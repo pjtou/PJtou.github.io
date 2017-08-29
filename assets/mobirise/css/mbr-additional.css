@@ -484,6 +484,13 @@ h6,
 #header1-1 .mbr-section-lead {
   font-family: 'Raleway', sans-serif;
 }
+#header3-18 .mbr-section-title,
+#header3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-18 .mbr-section-title {
+  font-size: 36px;
+}
 #menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -491,18 +498,18 @@ h6,
   color: #ffffff;
 }
 #menu-1 .navbar-toggler {
-  color: #faaf40;
+  color: #6a3433;
 }
 #menu-1 .link,
 #menu-1 .dropdown-item {
-  color: #faaf40;
+  color: #6a3433;
 }
 #menu-1 .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-1 .dropdown-item,
 #menu-1 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-1 .link:hover,
 #menu-1 .dropdown-item:hover,
@@ -512,22 +519,22 @@ h6,
 }
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-menu {
-  background: #e6e6e6;
+  background: #d6d6d6;
 }
 #menu-1 .nav-dropdown-sm .link:focus,
 #menu-1 .nav-dropdown-sm .link:hover,
 #menu-1 .nav-dropdown-sm .dropdown-item:focus,
 #menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #e7e7e7!important;
 }
 #menu-1 .navbar,
 #menu-1 .nav-dropdown-sm,
 #menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #efefef;
 }
 #menu-1 .bg-color.transparent .link {
-  color: #faaf40;
+  color: #6a3433;
   transition: none;
 }
 #menu-1 .bg-color.transparent.opened .link {
@@ -539,7 +546,7 @@ h6,
 }
 #menu-1 .link[aria-expanded="true"],
 #menu-1 .dropdown-item[aria-expanded="true"] {
-  color: #13203e!important;
+  color: #ffffff!important;
 }
 #menu-1.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -549,7 +556,7 @@ h6,
 }
 #menu-1 .close-icon::before,
 #menu-1 .close-icon::after {
-  background-color: #faaf40;
+  background-color: #6a3433;
 }
 #header1-9 .mbr-section-title {
   font-size: 36px;
@@ -561,6 +568,7 @@ h6,
 }
 #header1-9 .mbr-section-lead P {
   color: #13203e;
+  font-size: 18px;
 }
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
