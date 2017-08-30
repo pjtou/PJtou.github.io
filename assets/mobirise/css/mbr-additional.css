@@ -960,6 +960,8 @@ h6,
 #header5-13 .mbr-section-title SPAN {
   font-size: 36px;
 }
+
+
 #menu-19 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1033,6 +1035,10 @@ h6,
 }
 #header3-1b .mbr-section-title {
   font-size: 36px;
+  font-family: 'Raleway', sans-serif;
+}
+#header3-1b .mbr-section-subtitle {
+  font-family: 'Raleway', sans-serif;
 }
 #content1-1c P {
   font-size: 18px;
