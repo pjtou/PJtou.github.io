@@ -572,6 +572,8 @@ h6,
   color: #13203e;
   font-size: 18px;
 }
+
+
 #menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -586,11 +588,11 @@ h6,
   color: #6a3433;
 }
 #menu-3 .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,
@@ -600,19 +602,19 @@ h6,
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-menu {
-  background: #d6d6d6;
+  background: #e6e6e6;
 }
 #menu-3 .nav-dropdown-sm .link:focus,
 #menu-3 .nav-dropdown-sm .link:hover,
 #menu-3 .nav-dropdown-sm .dropdown-item:focus,
 #menu-3 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #f7f7f7!important;
 }
 #menu-3 .navbar,
 #menu-3 .nav-dropdown-sm,
 #menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3 .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
 }
 #menu-3 .bg-color.transparent .link {
   color: #6a3433;
@@ -642,7 +644,8 @@ h6,
 #header1-d .mbr-section-title {
   font-size: 25px;
   color: #490c5f;
-  text-align: left;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
 }
 #header1-d .mbr-section-lead {
   font-size: 19px;
@@ -652,6 +655,7 @@ h6,
 #header1-d .mbr-section-lead P {
   font-size: 19px;
   text-align: left;
+  font-family: 'Raleway', sans-serif;
 }
 
 #header3-17 .mbr-section-title,
