@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Wvtechniques.html",
+    "currentPage": "WVscreens.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 61,
+    "uniqCompNum": 62,
     "versionPublish": "4.1.4",
     "favicon": "",
     "noImageResize": ""
@@ -1867,6 +1867,63 @@
           "_styles": {
             "H3": {
               "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": 50,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/2dashas-664x623.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "2 dashas can be displayed on the Hindu module",
+          "text": "This screen shows all planets, the friendships they hold in their signs, their lord, nakshatras, whether retrograde.&nbsp;<br>The rightmost list here holds the divisional planets (not displayed on this ex), the dignities (avastas), the deities, and the part number in the natal sign.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-1p",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "21px"
             }
           }
         }
