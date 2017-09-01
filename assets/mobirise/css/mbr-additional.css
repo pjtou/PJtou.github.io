@@ -825,11 +825,11 @@ h6,
   color: #6a3433;
 }
 #menu-7 .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-7 .dropdown-item,
 #menu-7 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-7 .link:hover,
 #menu-7 .dropdown-item:hover,
@@ -839,19 +839,19 @@ h6,
 }
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-menu {
-  background: #d6d6d6;
+  background: #e6e6e6;
 }
 #menu-7 .nav-dropdown-sm .link:focus,
 #menu-7 .nav-dropdown-sm .link:hover,
 #menu-7 .nav-dropdown-sm .dropdown-item:focus,
 #menu-7 .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #f7f7f7!important;
 }
 #menu-7 .navbar,
 #menu-7 .nav-dropdown-sm,
 #menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-7 .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
 }
 #menu-7 .bg-color.transparent .link {
   color: #6a3433;
@@ -887,6 +887,7 @@ h6,
   color: #2a0737;
   font-size: 20px;
 }
+
 #menu-z .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -901,11 +902,11 @@ h6,
   color: #6a3433;
 }
 #menu-z .link {
-  font-size: 0.85rem;
+  font-size: 0.75rem;
 }
 #menu-z .dropdown-item,
 #menu-z .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.812rem;
 }
 #menu-z .link:hover,
 #menu-z .dropdown-item:hover,
@@ -915,19 +916,19 @@ h6,
 }
 #menu-z .link[aria-expanded="true"],
 #menu-z .dropdown-menu {
-  background: #d6d6d6;
+  background: #e6e6e6;
 }
 #menu-z .nav-dropdown-sm .link:focus,
 #menu-z .nav-dropdown-sm .link:hover,
 #menu-z .nav-dropdown-sm .dropdown-item:focus,
 #menu-z .nav-dropdown-sm .dropdown-item:hover {
-  background: #e7e7e7!important;
+  background: #f7f7f7!important;
 }
 #menu-z .navbar,
 #menu-z .nav-dropdown-sm,
 #menu-z .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-z .nav-dropdown-sm .dropdown-menu {
-  background: #efefef;
+  background: #ffffff;
 }
 #menu-z .bg-color.transparent .link {
   color: #6a3433;
@@ -963,7 +964,11 @@ h6,
   font-size: 20px;
 }
 #header5-13 .mbr-section-title SPAN {
-  font-size: 36px;
+  font-size: 46px;
+  font-family: 'Raleway', sans-serif;
+}
+#header5-13 .mbr-section-lead P {
+  font-size: 19px;
 }
 
 
