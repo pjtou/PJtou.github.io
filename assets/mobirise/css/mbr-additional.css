@@ -1,6 +1,7 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
 
 
@@ -1132,12 +1133,13 @@ h6,
   font-size: 18px;
   font-family: 'Lora', serif;
 }
+
 #header3-1k .mbr-section-title,
 #header3-1k .mbr-section-subtitle {
   text-align: center;
 }
 #header3-1k .mbr-section-title {
-  font-size: 36px;
+  font-size: 32px;
 }
 #menu-1h .hide-buttons .nav-btn {
   display: none !important;
@@ -1205,4 +1207,8 @@ h6,
 #menu-1h .close-icon::before,
 #menu-1h .close-icon::after {
   background-color: #6a3433;
+}
+#header2-1l .mbr-section-title {
+  font-size: 20px;
+  font-family: 'Roboto Slab', serif;
 }
