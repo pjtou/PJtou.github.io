@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "GunasDoshasTable.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -114,7 +114,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -303,7 +303,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -460,7 +460,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -568,12 +568,12 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingTop": "5",
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
           "title": "GUNAS &amp; DOSHAS",
-          "meta": "By Pierre Touchard Aug 28, 2017",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
@@ -588,7 +588,9 @@
           "_styles": {
             "P": {
               "text-align": "left",
-              "font-size": "18px"
+              "font-size": "18px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_anchor": "content2-m",
@@ -597,7 +599,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-size: 1.09rem;\">Gunas are litterally \"a thread, a string\" a \"quality\" that comes along during the process of incarnation. &nbsp; Purusha, or Spirit, is becoming involved with Prakriti or Nature, and with Prakriti comes the Gunas, coloring creation. &nbsp; In Shamkhya philosophy, this quality of the Gunas is involved early and at all stages of matter, even as creation is getting more and more cristallized. &nbsp;The Gunas are in everything and everyone, always there in Nature. &nbsp; As it were, Shamkhya concepts are imbeded in the early astrology texts of Parasara (Brihat Parasara Hora Shastra) and the Yavana of Spujidhava, 1st century AD. &nbsp;This suggests that astrology depicts how planets and signs are made of or colored by the creative process of the Gunas, but also, are part of that creative process. &nbsp;</span><br></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">In some translations of Parasara the word Shakti is used for each Guna, showing it to be a creative force. &nbsp; Bear in mind that planets are termed Grahas in the Puranas, and Surya Siddantha, and Grahas are deities, not material planets. &nbsp; Early in his text Parasara states that Graha's purpose is to give humans the fruits of their Karma, and there is stated in a nutshell the fundamental nature of astrology, which is to reveal the karmas of humans.&nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Parasara (date unknown, but Parasara is purported to be one of the 18 sages who gave astrology to mankind) and Spujidhava are the earliest extant texts giving Gunas and Doshas for each planet.  Mantreswhara in 13th century is very close to Parasara. &nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">In this table, in block letter are planets identical for both authors. The text of Spujidhava follows. Some authors derive Vata from Sattva which is how I placed Vata below Sattva, Pitta below Rajas and Kapha below Tamas logically.&nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">To better follow, Phelgm is the traditional translated word for Kapha, wind for Vatta, bile for Pitta. &nbsp; These translations are approximate however, as these have a medical conotation, wereas the Gunas also have a spiritual and psychological quality to them. &nbsp;These concepts are elaborated on in Bhagavad Gita.&nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Sattva is said to be a quality or property of balance, harmony, virtue. &nbsp;It is in Nature the closest to the harmony of Purusha, without being Purusha, because anything of Prakriti is material already.&nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Raja is of passion, excitment, the involvment of Ahamkar (ego) that want results and lives in the <span style=\"font-style: normal;\">mist</span> of thinking it creates, that is is causing creation (wereas only God creates). &nbsp;So Raja is lively, initiatiatory, active in the modern sense, passionate, emotional.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Tamas is a dense quality, heavy, the lowest of the 3. &nbsp;It causes stagnation, inertia, and due to it being anxious, it is involved with problems. &nbsp;However it is necessary to deal with problems, so Tamas shouldnt be frowned upon.</span></p></blockquote>"
+          "text": "<blockquote><p>&nbsp; &nbsp; &nbsp; &nbsp; <span style=\"font-style: normal;\">The&nbsp;<span style=\"font-size: 1.09rem;\">Gunas are litterally \"a thread, a string\" a \"quality\" that comes in Nature during the process of incarnation. &nbsp; According to Shamkhya philosophy, Purusha, or Spirit, is the true Self, it is involved with Prakriti or Nature, and with Prakriti comes the Gunas, coloring creation. &nbsp; In Shamkhya there are 2 main aspects, the Self represents the identity or spiritual essence of life, while Nature is the obvious visible, perceivable aspect.&nbsp;</span></span></p><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.09rem;\">So the quality of the Gunas is part of Prakriti or Nature only. &nbsp; It is not part of the Self, or the real identity of human beings. &nbsp;So quite early during the creation of Nature, the Gunas begin to act and color and give qualities to creation. &nbsp;The Gunas are said to be in everything and everyone, always there in Nature. &nbsp; It is rarely discussed, but Shamkhya concepts are imbeded in the early astrology texts of Parasara (Brihat Parasara Hora Shastra) and the Yavana of Spujidhava, 1st century AD. &nbsp;This suggests that astrology depicts how the deities of planets and signs are made of and colored by the creative process of the Gunas, but also, that the planets are part of the creative process of Nature. &nbsp; &nbsp;We can also see that planets color Nature. &nbsp; And because Nature can be perceived in a large part by the senses, the Gunas might also be, to some extent, perceivable by the senses.&nbsp;</span></span></p><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.09rem;\">In some translations of Parasara the word Shakti is used for each Guna, showing them to be a creative force. &nbsp; Bear in mind that planets are termed Grahas in the Puranas, in Surya Siddantha, and Grahas are actual deities, not material planets. &nbsp;This raises many questions about astrology, but we will write about this at other times. &nbsp;Early in his text Parasara states that Graha's purpose is to give humans the fruits of their Karma, and there is stated in a nutshell the fundamental nature of astrology, which is to reveal the karmas of humans.&nbsp;</span><span style=\"font-size: 1.09rem;\"><br></span></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">Parasara (date unknown, but Parasara is purported to be one of the 18 sages who gave astrology to mankind) and Spujidhava are the earliest extant texts giving Gunas and Doshas for each planet.  Mantreswhara in the 13th century is very close to Parasara. &nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">So we can remember that Gunas give specific qualities to Grahas or Planets. &nbsp;In this table, in block letter are planets identical for both authors. &nbsp;The text of Spujidhava follows. &nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">The table below the Gunas, is the table of the Doshas. &nbsp;Some authors have the Doshas aligned to the Gunas, so Vata is derived or linked with Sattva which is how I placed Vata below Sattva, Pitta below Rajas and Kapha below Tamas to follow on this idea.&nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">A word on translation. &nbsp;For Doshas, Phelgm is the traditional word in the early middle age for Kapha, wind is Vatta, bile for Pitta. &nbsp; These translations are approximate, as these have mostly a medical or phisiological conotation, wereas the Doshas seem to also have a spiritual and psychological quality to them, or at least, are not as easy to define materialy as we are used. &nbsp; Early Indian concepts are often tricky to properly translate with occidental words of a more materialistic culture. &nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">These concepts are elaborated on in Bhagavad Gita, The Upanishads and the Puranas, and the earliest trace I saw of these concepts is in Shamkhya. &nbsp;( I say earliest because since the Gita often discusses the Gunas, they must have been taught before the writing of the Gita).</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">Sattva is said to be a quality or property of balance, harmony, virtue. &nbsp;It is in Nature the closest to the serenity and harmony of Purusha, without being Purusha, because anything of Prakriti is denser and material already.&nbsp;</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">Raja is of passion, excitment, the involvment of Ahamkar (ego) that want results and lives in the mist of thinking it creates, that is is causing creation (wereas only God creates). &nbsp;So Raja is lively, initiatiatory, active in the modern sense, passionate, emotional.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\"><br></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5; font-style: normal;\">Tamas is a dense quality, it is heavy, the lowest vibration of the 3. &nbsp;It causes stagnation, inertia, and due to it being anxious, it is involved with problems. &nbsp;However it is necessary to deal with problems in life, so it can be suggested that Tamas shouldnt be judged as bad as many people often do.</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -612,7 +614,7 @@
           },
           "text1": "<p><b>Sattva</b></p><p><br></p><p><b>Sun  Jupiter</b></p><p><b>Moon </b></p><p> Mars (Spujidhava)</p><p><br></p>",
           "text2": "<p><b>Rajas</b></p><p><br></p><p><b>Venus Mercury</b></p><p><b><br></b></p><p>Moon (Spujidhava)</p><p><br></p>",
-          "text3": "<p><b>Tamas</b></p><p><br></p><p><br></p><p><b>Saturn </b></p><p>Mars (Parasara)</p><p><br></p>"
+          "text3": "<p><b>Tamas</b></p><p><br></p><p><br></p><p><b>Saturn </b></p><p><b>Mars</b> (Parasara)</p><p><br></p>"
         },
         {
           "_tags": [
@@ -625,7 +627,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p></p><p><b>Mercury</b> can be any of the three (mixed depending if another planet is conjunct, Spujidhava)</p><p><br></p><b>Spujidhava&nbsp;</b>: <p></p><p>114. Jupiter, Mars, and the Sun are of excellence (sattva), Venus and the Moon of passion (rajas), and Saturn of ignorance (tamas); Mercury accepts the other characteristics depending on which planet it is in conjunction with.</p><p><br></p><p>The differences in Spujidhava are intriguing, once again the moon which was associated with Ahamkar, ego in Parasara, is given an emotional tint, that of Rajas, which believes it is the creator, so this actually IS close to the notion of ego. &nbsp;Bear in mind that the moon never was a romantic emotional sweet planet in antiquity. &nbsp;That notion in quite modern. &nbsp;But there are several cultures where the moon was associated with a terrible and malevolent creature manipulating humans. &nbsp;In south Africa it is the Chitahauri. &nbsp;Once the moon appeared, brought about by some creatures, the sun began to scorch our human skins, the weather became harsher, hotter, more extreme, and women started to menstruate. &nbsp;There are similar tales in ancient Pre-Selene Greece, meaning Greece before the moon was there... &nbsp;They also remember that before the Moon was there women were without menstrual blood. &nbsp;And we know how the month (close etymology to the moon) as a lunar cycle ties in with women.</p><p>For Spujidhave mars is Sattva and not Tamas, suggesting that the 'overseer\" (translation for Mars in Parasara), has a role close to that of the King (Sun) with whom it is mutual friend, and so has a noble quality to it. &nbsp; The tasks of defending the kingdom and looking for problems are good necessary maintenance.&nbsp;</p><p><br></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<b>DOSHAS</b><br></p><p></p>",
+          "text": "<p></p><p><b>Mercury</b> can be any of the three (mixed depending if another planet is conjunct, Spujidhava)</p><p><br></p><b>Spujidhava&nbsp;</b>: <p></p><p>114. Jupiter, Mars, and the Sun are of excellence (sattva), Venus and the Moon of passion (rajas), and Saturn of ignorance (tamas); Mercury accepts the other characteristics depending on which planet it is in conjunction with.</p><p><br></p><p>The differences in Spujidhava are intriguing, once again the moon which was associated with Ahamkar, ego in Parasara, is given an emotional tint, that of Rajas, which believes it is the creator, so this actually IS close to the notion of ego. &nbsp;Bear in mind that the moon never was a romantic emotional sweet planet in antiquity. &nbsp;That notion in quite modern. &nbsp;But there are several cultures where the moon was associated with a terrible and malevolent creature manipulating humans. &nbsp;In south Africa it is the Chitahauri. &nbsp;Once the moon appeared, brought about by some creatures, the sun began to scorch our human skins, the weather became harsher, hotter, more extreme, and women started to menstruate. &nbsp;There are similar tales in ancient Pre-Selene Greece, meaning Greece before the moon was there... &nbsp;They also remember that before the Moon was there women were without menstrual blood. &nbsp;And we know how the month (close etymology to the moon) as a lunar cycle ties in with women.</p><p><br></p><p>For Spujidhava mars is Sattva and not Tamas, suggesting that the 'overseer\" (translation of Mars in Parasara), has a role close to that of the King (Sun) with whom it is mutual friend. &nbsp;If mars is the soldier or general, it must act for the good of the King. &nbsp;So this shows a noble quality to mars. &nbsp; The tasks of defending the kingdom and looking out for problems and fixing problems or defending against ennemies are useful and necessary, they are normal maintenance.&nbsp;</p><p><br></p><p><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<b>DOSHAS</b></p><p></p>",
           "_styles": {
             "P": {
               "font-family": "'Lora', serif",
@@ -645,9 +647,9 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Vata (Wind)</b></p><p><br></p><p><b>Saturn &nbsp;</b></p><p>Moon, Venus and Jupiter have some Vata</p><p><br></p>",
-          "text2": "<p><b>Pitta (Bile)</b></p><p><br></p><p><b>Mars</b></p><p>Sun (also Kapha Spujidhava)</p><p><br></p><p><br></p>",
-          "text3": "<p><b>Kapha</b></p><p><br></p><p>Jupiter (also Vata, Spujidhava)</p><p>Moon, also Vata. </p><p>Venus (also Vata, Parasara) </p><p>Sun SpujidhavaKapha (Phlegm)</p>"
+          "text1": "<p><b>Vata (Wind)</b></p><p><br></p><p><b>Saturn &nbsp;</b></p><p><b>Moon, Venus and Jupiter</b> have some Vata</p><p><br></p>",
+          "text2": "<p><b>Pitta (Bile)</b></p><p><br></p><p><b>Mars</b></p><p><b>Sun</b> (also Kapha Spujidhava)</p><p><br></p><p><br></p>",
+          "text3": "<p><b>Kapha (Phelgm)</b></p><p><br></p><p><b>Jupiter</b> (also Vata, Spujidhava)</p><p><b>Moon</b>, also Vata. </p><p><b>Venus</b> (also Vata, Parasara) </p><p><b>Sun</b>&nbsp;for Spujidhava</p>"
         },
         {
           "_tags": [
@@ -660,10 +662,12 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Mercury (mixed with its position, Spujidhava)</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Spujidhava&nbsp;:</span><br></p><p>113. Bile is from Mars, bile and phlegm from the Sun, phlegm and wind from Jupiter and the Moon, phlegm from Venus, wind from Saturn, and wind mixed with the quality of its position from Mercury.</p><p><br></p><p><br></p><p><br></p><p><br></p></blockquote>",
+          "text": "<blockquote><p><b style=\"font-style: normal;\">Mercury (mixed with its position, Spujidhava)</b></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.07rem; line-height: 1.5;\">Spujidhava&nbsp;:</span><br></span></p><p><span style=\"font-style: normal;\">113. Bile is from Mars, bile and phlegm from the Sun, phlegm and wind from Jupiter and the Moon, phlegm from Venus, wind from Saturn, and wind mixed with the quality of its position from Mercury.</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">The primary use of Doshas is in Ayurveda, but it is a diagnostic knowledge tool of astrology, and shows a deep link between ayurveda and astrology in India. &nbsp;</span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\"><br></span></p><p><span style=\"font-style: normal;\">Pierre Touchard Aug 28, 2017</span></p><p><br></p><p><br></p><p><br></p><p><br></p></blockquote>",
           "_styles": {
             "P": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         },
@@ -682,22 +686,22 @@
               "color": "#6a3433"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#d6d6d6"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#e7e7e7!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#efefef"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
               "color": "#6a3433",
@@ -736,7 +740,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -833,7 +837,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -947,7 +951,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -1101,7 +1105,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -1263,7 +1267,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -1424,7 +1428,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
@@ -1610,7 +1614,7 @@
             "collapsed": true,
             "transparent": false,
             "bgColor": "#ffffff",
-            "fontSize": "0.75",
+            "fontSize": "0.8",
             "fontName": {},
             "fontColor": "#6a3433",
             "fontHoverColor": "@primaryColor"
