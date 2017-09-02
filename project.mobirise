@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "WVscreens.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -246,10 +246,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#bc961f"
+              "color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#bc961f"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -261,16 +261,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#615753"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#746964!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
-              "color": "#bc961f",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -290,7 +290,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#bc961f"
+              "background-color": "#fac51c"
             }
           },
           "_name": "menu",
@@ -1237,10 +1237,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#bc961f"
+              "color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#bc961f"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -1252,16 +1252,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#615753"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#746964!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
-              "color": "#bc961f",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1281,7 +1281,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#bc961f"
+              "background-color": "#fac51c"
             }
           },
           "_name": "menu",
@@ -1398,10 +1398,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#bc961f"
+              "color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#bc961f"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -1413,16 +1413,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#615753"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#746964!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
-              "color": "#bc961f",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1442,7 +1442,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#bc961f"
+              "background-color": "#fac51c"
             }
           },
           "_name": "menu",
@@ -1558,7 +1558,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>WIn*Vega is built with the notion to have a degree of transparency between Vedic astrology and the western methods., &nbsp;This is because both astrologies are built exactly the same way with 12 signs and planets, aspects etc.. &nbsp; So people usually used to deal with a round chartwheel can use it as well as people used to a square chart like in India. &nbsp; Look below for exemples or charts.&nbsp;</p><p>The only exception is that the Hindu module for now uses the square chart format. &nbsp; Also the techniques used in India, like Dashas and Vargas, are only on the Hindu module.&nbsp;</p>",
+          "text": "<p>WIn*Vega is built with the notion of a transparency between Vedic astrology and the western methods., &nbsp;This is because both astrologies are built exactly the same way with 12 signs and planets, aspects etc.. &nbsp; So people usually used to deal with a round chartwheel can use it as well as people used to a square chart like in India. &nbsp; Look below for exemples or charts.&nbsp;</p><p>The only exception is that the Hindu module for now uses the square chart format. &nbsp; Also the techniques used in India, like Dashas and Vargas, are only on the Hindu module. &nbsp;Most of the western methods are also available on the Hindu module, though.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -1597,10 +1597,10 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#bc961f"
+              "color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#bc961f"
+              "color": "#fac51c"
             },
             ".link": {
               "font-size": "0.9rem"
@@ -1612,16 +1612,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#615753"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#746964!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
-              "color": "#bc961f",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1641,7 +1641,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#bc961f"
+              "background-color": "#fac51c"
             }
           },
           "_name": "menu",
