@@ -1,6 +1,7 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
 
@@ -590,11 +591,11 @@ h6,
   color: #6a3433;
 }
 #menu-3 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,
@@ -644,7 +645,7 @@ h6,
   background-color: #6a3433;
 }
 #header1-d .mbr-section-title {
-  font-size: 25px;
+  font-size: 30px;
   color: #490c5f;
   text-align: center;
   font-family: 'Raleway', sans-serif;
@@ -655,9 +656,9 @@ h6,
   color: #13203e;
 }
 #header1-d .mbr-section-lead P {
-  font-size: 19px;
+  font-size: 18px;
   text-align: left;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Oxygen', sans-serif;
 }
 
 
@@ -830,11 +831,11 @@ h6,
   color: #6a3433;
 }
 #menu-7 .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-7 .dropdown-item,
 #menu-7 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-7 .link:hover,
 #menu-7 .dropdown-item:hover,
@@ -907,11 +908,11 @@ h6,
   color: #6a3433;
 }
 #menu-z .link {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
 }
 #menu-z .dropdown-item,
 #menu-z .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.866rem;
 }
 #menu-z .link:hover,
 #menu-z .dropdown-item:hover,
