@@ -1152,6 +1152,10 @@ h6,
 #header3-1k .mbr-section-title {
   font-size: 21px;
 }
+#header2-1l .mbr-section-title {
+  font-size: 18px;
+  font-family: 'Roboto Slab', serif;
+}
 #menu-1h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1218,10 +1222,6 @@ h6,
 #menu-1h .close-icon::before,
 #menu-1h .close-icon::after {
   background-color: #fac51c;
-}
-#header2-1l .mbr-section-title {
-  font-size: 18px;
-  font-family: 'Roboto Slab', serif;
 }
 #msg-box5-1m H3 {
   font-size: 20px;
