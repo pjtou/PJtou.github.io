@@ -1,7 +1,6 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
 
@@ -584,18 +583,18 @@ h6,
   color: #ffffff;
 }
 #menu-3 .navbar-toggler {
-  color: #6a3433;
+  color: #fac51c;
 }
 #menu-3 .link,
 #menu-3 .dropdown-item {
-  color: #6a3433;
+  color: #fac51c;
 }
 #menu-3 .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,
@@ -605,22 +604,22 @@ h6,
 }
 #menu-3 .link[aria-expanded="true"],
 #menu-3 .dropdown-menu {
-  background: #f6f372;
+  background: #615753;
 }
 #menu-3 .nav-dropdown-sm .link:focus,
 #menu-3 .nav-dropdown-sm .link:hover,
 #menu-3 .nav-dropdown-sm .dropdown-item:focus,
 #menu-3 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f8f694!important;
+  background: #746964!important;
 }
 #menu-3 .navbar,
 #menu-3 .nav-dropdown-sm,
 #menu-3 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-3 .nav-dropdown-sm .dropdown-menu {
-  background: #f9f7a2;
+  background: #7c706b;
 }
 #menu-3 .bg-color.transparent .link {
-  color: #6a3433;
+  color: #fac51c;
   transition: none;
 }
 #menu-3 .bg-color.transparent.opened .link {
@@ -642,13 +641,13 @@ h6,
 }
 #menu-3 .close-icon::before,
 #menu-3 .close-icon::after {
-  background-color: #6a3433;
+  background-color: #fac51c;
 }
 #header1-d .mbr-section-title {
   font-size: 30px;
   color: #490c5f;
   text-align: center;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lora', serif;
 }
 #header1-d .mbr-section-lead {
   font-size: 19px;
@@ -658,7 +657,7 @@ h6,
 #header1-d .mbr-section-lead P {
   font-size: 20px;
   text-align: left;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lora', serif;
   color: #121827;
 }
 
