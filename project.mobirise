@@ -21,13 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#21062b",
         "#1d0526",
         "#c4e52a",
         "#bc961f",
         "#f9f7a2",
         "#121827",
-        "#041232",
-        "#232323"
+        "#041232"
       ]
     },
     "versionFirst": "3.10.3",
@@ -507,7 +507,7 @@
           "_styles": {
             ".mbr-section-title": {
               "font-size": "30px",
-              "color": "#490c5f",
+              "color": "#21062b",
               "text-align": "center",
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
