@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 67,
+    "uniqCompNum": 68,
     "versionPublish": "4.2.3",
     "favicon": "",
     "noImageResize": ""
@@ -926,45 +926,12 @@
             "filter": false,
             "images": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/frenchwheel-687x636.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/frenchwheel-687x636-687x636.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/louis14-1-952x663.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/louis14-1-952x663-800x557.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/roseanne-1-1100x650.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/roseanne-1-1100x650-800x472.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/extransit2wheels-1-737x434.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/extransit2wheels-1-737x434-737x434.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
@@ -1126,6 +1093,56 @@
             "overlayOpacity": "0.9"
           },
           "text": ""
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "text1": "<p><strong>Contacts</strong><br>\nEmail: &nbsp;rock1v2@ymail.com<br>\nPhone: +1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>\nFax: +1</p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website&nbsp;</a>&nbsp;Pierre Touchard</li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a>&nbsp;(to come)&nbsp; &nbsp;&nbsp;</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "rock1v2@ymail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Pierre Touchard"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "rock1v2@ymail.com"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_anchor": "contacts4-1v"
         }
       ]
     },
