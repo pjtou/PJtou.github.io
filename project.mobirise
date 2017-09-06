@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DasasJyotish.html",
+    "currentPage": "WV7Intro.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -41,7 +41,7 @@
       "settings": {
         "main": true,
         "title": "Jyotish Astrology",
-        "meta_descr": "On Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha",
+        "meta_descr": "Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -209,7 +209,8 @@
     "DasasJyotish.html": {
       "settings": {
         "title": "Dasas en Astrologie",
-        "order": 7
+        "order": 6,
+        "meta_descr": "Dasas, Dashas, périodes,  Hindu astrology, Greek astrology, Astrology Indienne, Jyotish, VImshottair, Ashtottari, Shodasottari, Kalachakra,  Périodes Aphétiques, Zodiacal releasing"
       },
       "components": [
         {
@@ -389,7 +390,7 @@
     },
     "WV7Intro.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "Pierre touchard, logiciel astrologique, astrology software, winvega 7, jyotish software, astrology hindu, hindoue",
         "title": "Introduction a WinVega",
         "order": 8
       },
@@ -579,7 +580,7 @@
     "GunasDoshasTable.html": {
       "settings": {
         "title": "Gunas & Doshas of Planets",
-        "meta_descr": "Gunas, Doshas, Parashara, Spujidavha",
+        "meta_descr": "Gunas, Doshas, Parashara, Spujidhava, Sattva, Raja, Tamas, Vata, Vatta, Pitta, Kapha",
         "order": 5
       },
       "components": [
@@ -706,31 +707,31 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#6a3433"
+              "color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#6a3433"
+              "color": "#fac51c"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#615753"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#746964!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
-              "color": "#6a3433",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -750,7 +751,7 @@
               "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#6a3433"
+              "background-color": "#fac51c"
             }
           },
           "_tags": [
@@ -906,8 +907,8 @@
     },
     "WVPresent.html": {
       "settings": {
-        "order": 6,
-        "meta_descr": "Presentation de Winvega",
+        "order": 7,
+        "meta_descr": "Presentation de Winvega, astrology software,  logiciel astrologique\nPierre Touchard",
         "title": "Win*Vega Presentation"
       },
       "components": [
@@ -1223,7 +1224,7 @@
     },
     "TradDignities.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "DIgnités astrologiques, traditionnelles, Ptolémée, Lilly, Secte, Section,  Hayz, triplicités, rulership, maitre, exaltation, termes",
         "title": "TradDIgnities",
         "order": 3
       },
@@ -1384,7 +1385,7 @@
     },
     "RangSocial.html": {
       "settings": {
-        "meta_descr": "Ptolemy, Ptolémée, Eminence, Astrologie",
+        "meta_descr": "Ptolemy, Ptolémée, Eminence, Astrologie, Rang Social, traduction en francais",
         "title": "RangSocial",
         "order": 2
       },
@@ -1547,7 +1548,7 @@
     },
     "WVscreens.html": {
       "settings": {
-        "meta_descr": "WinVega screens, windows, jyotish chartwheels roues astrologiques",
+        "meta_descr": "Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard, WinVega screens, windows, jyotish chartwheels roues astrologiques",
         "title": "WVscreens",
         "order": 1
       },
