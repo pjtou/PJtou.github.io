@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WVPresent.html",
+    "currentPage": "DasasJyotish.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -21,18 +21,18 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#151417",
         "#49bbf7",
         "#21062b",
         "#1d0526",
         "#c4e52a",
         "#bc961f",
-        "#f9f7a2",
-        "#121827"
+        "#f9f7a2"
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 68,
-    "versionPublish": "4.2.3",
+    "uniqCompNum": 70,
+    "versionPublish": "4.3.2",
     "favicon": "",
     "noImageResize": ""
   },
@@ -918,7 +918,7 @@
             "showBullets": true,
             "fullWidth": true,
             "spacing": 0,
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "filterBgColor": false,
             "bgColor": "fff",
@@ -1437,7 +1437,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
@@ -1463,9 +1463,103 @@
           "_anchor": "content1-1c",
           "_styles": {
             "P": {
-              "font-size": "18px"
+              "font-size": "19px",
+              "color": "#151417"
             }
           }
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 1,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "filterBgColor": true,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hayz-254x88.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hayz-254x88-254x88.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/almutens-138x74.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/almutens-138x74-138x74.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/hourday-111x78.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hourday-111x78-111x78.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/traddignities-441x83.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/traddignities-441x83-441x83.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/maindignities-324x115.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maindignities-324x115-324x115.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery3",
+          "_anchor": "gallery3-1w"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p>The Pto, Pe Lilly header on top</p><p>shows the total of points Ptolemy would have given each planets.</p><p>Pe indicates whether the planet is Peregrine.</p><p>Next the 5 right columns give the diurnal nocturnal qualities. &nbsp;Pla shows if the planet is masculine + ot feminine -.&nbsp;</p><p>Sol shows if the planet is in the same hemisphere as the sun +, or in the opposite hemisphere. &nbsp;If the sun and planet are below the hemisphere, the planets gets a +, &nbsp;In the planet is above the horizon and the sun below the horizon, its a -, meaning, in a nocturnal position. &nbsp;The horizon is the divider.</p><p><br></p><p><br></p>",
+          "text2": "Almutens",
+          "text3": "<p>Planetary Hours and Days&nbsp;</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-1x"
         }
       ]
     },
