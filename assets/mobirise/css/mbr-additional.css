@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 
@@ -648,7 +649,7 @@ h6,
   font-size: 30px;
   color: #21062b;
   text-align: center;
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
 }
 #header1-d .mbr-section-lead {
   font-size: 19px;
@@ -658,7 +659,7 @@ h6,
 #header1-d .mbr-section-lead P {
   font-size: 20px;
   text-align: left;
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
   color: #121827;
 }
 
@@ -758,18 +759,18 @@ h6,
   color: #ffffff;
 }
 #menu-v .navbar-toggler {
-  color: #faaf40;
+  color: #fac51c;
 }
 #menu-v .link,
 #menu-v .dropdown-item {
-  color: #faaf40;
+  color: #fac51c;
 }
 #menu-v .link {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
 }
 #menu-v .dropdown-item,
 #menu-v .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.975rem;
 }
 #menu-v .link:hover,
 #menu-v .dropdown-item:hover,
@@ -779,22 +780,22 @@ h6,
 }
 #menu-v .link[aria-expanded="true"],
 #menu-v .dropdown-menu {
-  background: #e6e6e6;
+  background: #615753;
 }
 #menu-v .nav-dropdown-sm .link:focus,
 #menu-v .nav-dropdown-sm .link:hover,
 #menu-v .nav-dropdown-sm .dropdown-item:focus,
 #menu-v .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #746964!important;
 }
 #menu-v .navbar,
 #menu-v .nav-dropdown-sm,
 #menu-v .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-v .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #7c706b;
 }
 #menu-v .bg-color.transparent .link {
-  color: #faaf40;
+  color: #fac51c;
   transition: none;
 }
 #menu-v .bg-color.transparent.opened .link {
@@ -806,7 +807,7 @@ h6,
 }
 #menu-v .link[aria-expanded="true"],
 #menu-v .dropdown-item[aria-expanded="true"] {
-  color: #13203e!important;
+  color: #ffffff!important;
 }
 #menu-v.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
@@ -816,7 +817,7 @@ h6,
 }
 #menu-v .close-icon::before,
 #menu-v .close-icon::after {
-  background-color: #faaf40;
+  background-color: #fac51c;
 }
 
 #header5-y .mbr-section-title {
