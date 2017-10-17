@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "TradDignities.html",
+    "currentPage": "DasasJyotish.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -329,7 +329,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-lead P": {
-              "color": "#efefef",
+              "color": "#ffffff",
               "font-size": "21px"
             }
           },
@@ -349,7 +349,7 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": "0"
           },
