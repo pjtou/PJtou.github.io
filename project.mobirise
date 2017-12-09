@@ -41,7 +41,7 @@
       "settings": {
         "main": true,
         "title": "Jyotish Astrology",
-        "meta_descr": "Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard",
+        "meta_descr": "Jyotish, Astrologie, Touchard, Greek Astrology, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -337,19 +337,19 @@
           "_params": {
             "showTitle": false,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false,
             "contentAlign": "left",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/hathor-dendera-nosky-1338x2007.png",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#ffffff",
             "overlayOpacity": "0"
           },
