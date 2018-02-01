@@ -2285,6 +2285,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -2339,7 +2342,7 @@
             },
             ".mbr-section-lead P": {
               "color": "#13203e",
-              "font-size": "18px"
+              "font-size": "21px"
             }
           },
           "_anchor": "header1-23"

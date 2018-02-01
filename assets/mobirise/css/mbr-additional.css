@@ -1246,6 +1246,9 @@ h6,
 #header3-24 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-24 .mbr-section-title {
+  font-size: 36px;
+}
 #header1-23 .mbr-section-title {
   font-size: 36px;
   color: #13203e;
@@ -1256,7 +1259,7 @@ h6,
 }
 #header1-23 .mbr-section-lead P {
   color: #13203e;
-  font-size: 18px;
+  font-size: 21px;
 }
 #menu-1z .hide-buttons .nav-btn {
   display: none !important;
