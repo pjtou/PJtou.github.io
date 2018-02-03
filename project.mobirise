@@ -2391,7 +2391,7 @@
             }
           },
           "title": "Map of Prakriti",
-          "text": "The descent into more gross forms of matter in Prakriti is described by Shankhya. &nbsp; The upper evolute shows Purusha linked to Prakriti.<br><br>I would refer the reader to my article on the Gunas and Doshas on <a href=\"GunasDoshasTable.html\" class=\"text-success\">this site here.</a>",
+          "text": "The descent into more gross forms of matter in Prakriti is described by Shankhya. &nbsp; The upper evolute shows Purusha linked to Prakriti.<br><br>I would refer the reader to my article on the <a href=\"GunasDoshasTable.html\" class=\"text-info\"><b>Gunas and Doshas</b></a> on <a href=\"GunasDoshasTable.html\" class=\"text-info\">this site here.</a>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"GunasDoshasTable.html\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Theme"
