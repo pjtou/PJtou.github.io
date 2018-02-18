@@ -1328,11 +1328,8 @@ h6,
 #menu-1z .close-icon::after {
   background-color: #fac51c;
 }
-#header5-29 .mbr-section-title {
-  color: #000;
-}
-#header5-29 .mbr-section-lead {
-  color: #9c9a9a;
+#msg-box1-2d H3 {
+  font-size: 24px;
 }
 #menu-27 .hide-buttons .nav-btn {
   display: none !important;
