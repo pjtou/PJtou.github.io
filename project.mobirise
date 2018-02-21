@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DownloadWV.html",
+    "currentPage": "TradDignities.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -1511,12 +1511,12 @@
             },
             ".mbr-section-title": {
               "font-size": "36px",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             },
             ".mbr-section-subtitle": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_params": {
@@ -1548,7 +1548,9 @@
           "_styles": {
             "P": {
               "font-size": "19px",
-              "color": "#151417"
+              "color": "#151417",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           }
         },
@@ -1643,7 +1645,17 @@
             "Theme"
           ],
           "_name": "content7",
-          "_anchor": "content7-1x"
+          "_anchor": "content7-1x",
+          "_styles": {
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "DIV": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          }
         }
       ]
     },

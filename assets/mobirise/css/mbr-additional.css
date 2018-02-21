@@ -986,6 +986,9 @@ h6,
 }
 
 
+
+
+
 #menu-19 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1059,14 +1062,21 @@ h6,
 }
 #header3-1b .mbr-section-title {
   font-size: 36px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lora', serif;
 }
 #header3-1b .mbr-section-subtitle {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Lora', serif;
 }
 #content1-1c P {
   font-size: 19px;
   color: #151417;
+  font-family: 'Lora', serif;
+}
+#content7-1x P {
+  font-family: 'Lora', serif;
+}
+#content7-1x DIV {
+  font-family: 'Lora', serif;
 }
 
 
