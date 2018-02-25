@@ -1177,8 +1177,12 @@ h1, h2, h3, h4, h5, h6,
 #menu-1z .close-icon::after {
   background-color: #fac51c;
 }
+
 #msg-box1-2d H3 {
-  font-size: 21px;
+  font-size: 24px;
+}
+#msg-box1-2d SPAN {
+  font-size: 24px;
 }
 #menu-27 .hide-buttons .nav-btn {
   display: none !important;
@@ -1192,13 +1196,14 @@ h1, h2, h3, h4, h5, h6,
 #menu-27 .link,
 #menu-27 .dropdown-item {
   color: #fac51c;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-27 .link {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
 }
 #menu-27 .dropdown-item,
 #menu-27 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
+  font-size: 0.975rem;
 }
 #menu-27 .link:hover,
 #menu-27 .dropdown-item:hover,
