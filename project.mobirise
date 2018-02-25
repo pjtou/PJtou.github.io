@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DownloadWV.html",
+    "currentPage": "index.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -194,7 +194,7 @@
           },
           "title": "Jyotish, Hindu Astrology",
           "text": "<br>This site presents Hindu (or Vedic, Jyotish) Astrology, various articles, some translations and articles on Hellenistic Astrology, links, and the Winvega software which does Western, Ancient and Jyotish astrology as these branches have a commun 12 signs foundation.  The astrology in Win*Vega is based on the classic \"Brihat Parasara Hora Sastra\" and \"Upadesa Sutra\" by Jaimini.<br><br>Ce site présente l'astrologie Hindoue (ou Védique, Jyotish), plusieurs articles, des traductions&nbsp;<br>et articles sur l'astrologie Héllénique, des liens, et le logiciel WinVega. &nbsp;<br>WinVega calcule l'astrologie occidentale moderne, ancienne et aussi l'astrologie Hindoue.<br>Ceci est possible grace a la nature commune à 12 signes de ces traditions.&nbsp;<br>L'astrologie Hindoue dans WinVega est fondée sur le classique Brihat Parasara Hora Shastra,<br>de Parasara, ainsi que Upadesa Sutra de Jaimini.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=49&amp;item_name=Buy+WinVega+Pro+v7&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\">Buy WinVega with Paypal</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"DownloadWV.html\" data-toolbar=\"-mbrBtnMove\">Buy WinVega with Paypal</a>"
         },
         {
           "_params": {
