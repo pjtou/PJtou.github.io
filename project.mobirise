@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 95,
+    "uniqCompNum": 96,
     "versionPublish": "4.6.5",
     "favicon": "",
     "noImageResize": "",
@@ -2300,31 +2300,60 @@
         },
         {
           "_params": {
+            "showTitle": true,
             "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/exnavamsa-376x292.jpg",
+              "active": true,
               "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/exnavamsa-376x292.jpg",
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "class": "mbr-embedded-video",
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
-          "text": "Exemple of a South Indian Square chart. &nbsp;Here it is the Navamsa chart.",
+          "title": "Exemple of a South Indian Square chart.  Here it is the Navamsa chart",
+          "text": "This south Indian chart is from the varga collection of WinVega, which calculates more than 16 vargas with several important variations..",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "video2",
-          "_anchor": "video2-1t"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2n",
+          "_styles": {
+            "H3": {
+              "font-size": "19px"
+            }
+          }
         }
       ]
     },
