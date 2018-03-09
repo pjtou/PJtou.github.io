@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WVLinks.html",
+    "currentPage": "WVscreens.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -2307,7 +2307,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tertiaries-1-819x507.jpg",
+              "src": "@PROJECT_PATH@/assets/images/exnavamsa-376x292.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
