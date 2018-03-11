@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WVscreens.html",
+    "currentPage": "index.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -192,9 +192,9 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "Jyotish, Hindu Astrology",
-          "text": "<br>This site presents Hindu (or Vedic, Jyotish) Astrology, various articles, some translations and articles on Hellenistic Astrology, links, and the Winvega software which does Western, Ancient and Jyotish astrology as these branches have a commun 12 signs foundation.  The astrology in Win*Vega is based on the classics \"Brihat Parasara Hora Sastra\" and \"Upadesa Sutra\" by Jaimini.<br><br>Ce site présente l'astrologie Hindoue (ou Védique, Jyotish), plusieurs articles, des traductions&nbsp;et articles sur l'astrologie Héllénique, des liens, et le logiciel WinVega. &nbsp;<br>WinVega calcule l'astrologie occidentale moderne, ancienne et aussi l'astrologie Hindoue.<br>Ceci est possible grace à la nature commune à 12 signes de ces traditions.&nbsp;<br>L'astrologie Hindoue de WinVega est fondée sur le classique Brihat Parasara Hora Shastra,&nbsp;de Parasara, ainsi que Upadesa Sutra de Jaimini.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"DownloadWV.html\" data-toolbar=\"-mbrBtnMove\">Buy WinVega with Paypal</a>"
+          "title": "Jyotish, Astrologie hindoue",
+          "text": "Ce site présente l'astrologie hindoue (ou Védique, Jyotish), plusieurs articles, des traductions de l'astrologie héllénique, des liens, et le logiciel WinVega.  \n<br>WinVega calcule l'astrologie occidentale moderne, ancienne et hindoue.\n<br>Ceci est possible grace aux similarité à 12 signes de ces traditions. \n<br>L'astrologie hindoue de WinVega est fondée sur le classique Brihat Parasara Hora Shastra, de Parasara, ainsi que Upadesa Sutra de Jaimini.<br><br>This site presents Hindu (or Vedic, Jyotish) Astrology, various articles, some translations and articles on Hellenistic Astrology, links, and the Winvega software which does Western, Ancient and Jyotish astrology as these branches have a commun 12 signs foundation.  The astrology in Win*Vega is based on the classics \"Brihat Parasara Hora Sastra\" and \"Upadesa Sutra\" by Jaimini.<br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"DownloadWV.html\" data-toolbar=\"-mbrBtnMove\">Get WinVega with Paypal</a>"
         },
         {
           "_params": {
@@ -2716,7 +2716,7 @@
           },
           "title": "",
           "text": "<br>Clic the Button on the right to go to the buying WinVega process with Paypal.<br>Once you are done with Paypal, the software will be sent to you by email<br>Our email address is below for any questions. &nbsp; WinVega costs 69$ as introductory price.<br>The conversion to your own currency si done by Paypal or your credit card.&nbsp;<br><br>Cliquez le bouton de droite pour aller sur la page de paiement de WinVega, par Paypal ou carte de crédit. &nbsp; &nbsp; Le prix d'introduction de WinVega est de 69$ Canadien. &nbsp;La conversion selon la monnaie d'origine est faite par Paypal.&nbsp;<br><br>&nbsp;<br><br>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1&amp;item_name=WinVega+Pro+V7&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD WINVEGA<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=1&amp;item_name=Buy+WinVega+Pro+V7&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD WINVEGA<br></a>",
           "_tags": [
             "Theme"
           ],
