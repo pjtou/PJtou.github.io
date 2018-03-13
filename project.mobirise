@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "DownloadWV.html",
+    "currentPage": "WVscreens.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -1876,7 +1876,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>WIn*Vega is built with the notion of a transparency between Vedic astrology and the western methods., &nbsp;This is because both astrologies are built exactly the same way with 12 signs and planets, aspects etc.. &nbsp; So people usually used to deal with a round chartwheel can use it as well as people used to a square chart like in India. &nbsp; Look below for exemples or charts.&nbsp;</p><p>The only exception is that the Hindu module for now uses the square chart format. &nbsp; Also the techniques used in India, like Dashas and Vargas, are only on the Hindu module. &nbsp;Most of the western methods are also available on the Hindu module, though.&nbsp;</p>",
+          "text": "<p>Toute l'interface de WinVega fonctionne en francais ou en anglais.</p><p>The WinVega interface runs either in english or french.</p><p><br></p><p>WIn*Vega is built with the notion of a transparency between Vedic astrology and the western methods., &nbsp;This is because both astrologies are built exactly the same way with 12 signs and planets, aspects etc.. &nbsp; So people used to deal with a round chartwheel can use it as well as people used to a square chart like in India. &nbsp; Look below for exemples or charts.&nbsp;</p><p>The only exception is that the Hindu module for now uses the square chart format. &nbsp; Also the techniques used in India, like Dashas and Vargas, are only on the Hindu module. &nbsp;Most of the western methods are also available on the Hindu module, though.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
