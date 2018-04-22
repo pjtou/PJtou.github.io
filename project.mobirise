@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WVscreens.html",
+    "currentPage": "ZodiacDef.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 96,
+    "uniqCompNum": 106,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -124,7 +124,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "bgColor": "#7c706b",
+            "bgColor": "#475577",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -136,9 +136,9 @@
             "transparent": true,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -155,7 +155,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -417,7 +417,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -580,7 +580,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -890,125 +890,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
-        }
-      ]
-    },
-    "page5.html": {
-      "settings": {
-        "title": "WinVega Astrology",
-        "meta_descr": "Astrology site, Astrology software, Pierre Touchard, Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard,",
-        "order": 14
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#fac51c"
-            },
-            ".link, .dropdown-item": {
-              "color": "#fac51c"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#fac51c",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {},
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#fac51c"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-v",
-          "_params": {
-            "bgColor": "#7c706b",
-            "fontSize": "0.9",
-            "fontName": {
-              "name": "Raleway",
-              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
-              "css": "'Raleway', sans-serif"
-            },
-            "fontColor": "#fac51c",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-w",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#444444"
-          },
-          "text": ""
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -1186,7 +1068,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1354,7 +1236,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1523,7 +1405,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1794,7 +1676,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2027,7 +1909,7 @@
           "_name": "menu",
           "_anchor": "menu-1h",
           "_params": {
-            "bgColor": "#7c706b",
+            "bgColor": "#475577",
             "fontSize": "0.9",
             "fontName": {
               "name": "Raleway",
@@ -2039,9 +1921,9 @@
             "transparent": true,
             "sticky": false,
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "collapsed": true,
-            "hideButtons": false
+            "hideButtons": true
           },
           "logo": {
             "image": {
@@ -2058,7 +1940,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2589,7 +2471,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2825,7 +2707,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3043,7 +2925,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3261,7 +3143,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3357,6 +3239,955 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Here write to us any questions, Contact us&nbsp;</a>"
+        }
+      ]
+    },
+    "page14.html": {
+      "settings": {
+        "title": "Site Creator Title",
+        "meta_descr": "Site Creator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#615753"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#746964!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7c706b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2o",
+          "_params": {
+            "bgColor": "#475577",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Site created with Mobirise",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "rock1v2<a href=\"mailto:support@mobirise.com\">@ymail.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><br></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><br></li>",
+          "text6": "<strong>Contacts</strong><br>Email: rock1v2@ymail.com<br>Phone: +1&nbsp;<br>Fax: +1<br><br><br><strong>Address</strong><br><br>City, Montreal, Canada",
+          "form": {
+            "title": "MESSAGE",
+            "action": "rock1v2@ymail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Here write to us any questions, Contact us&nbsp;</a>"
+        }
+      ]
+    },
+    "page15.html": {
+      "settings": {
+        "title": "Web Page Generator Title",
+        "meta_descr": "Web Page Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#615753"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#746964!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7c706b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2q",
+          "_params": {
+            "bgColor": "#475577",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2r",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Site created with Mobirise",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "rock1v2<a href=\"mailto:support@mobirise.com\">@ymail.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><br></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><br></li>",
+          "text6": "<strong>Contacts</strong><br>Email: rock1v2@ymail.com<br>Phone: +1&nbsp;<br>Fax: +1<br><br><br><strong>Address</strong><br><br>City, Montreal, Canada",
+          "form": {
+            "title": "MESSAGE",
+            "action": "rock1v2@ymail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Here write to us any questions, Contact us&nbsp;</a>"
+        }
+      ]
+    },
+    "page16.html": {
+      "settings": {
+        "title": "Website Generator Title",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#615753"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#746964!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7c706b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2s",
+          "_params": {
+            "bgColor": "#475577",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2t",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Site created with Mobirise",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "rock1v2<a href=\"mailto:support@mobirise.com\">@ymail.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><br></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><br></li>",
+          "text6": "<strong>Contacts</strong><br>Email: rock1v2@ymail.com<br>Phone: +1&nbsp;<br>Fax: +1<br><br><br><strong>Address</strong><br><br>City, Montreal, Canada",
+          "form": {
+            "title": "MESSAGE",
+            "action": "rock1v2@ymail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Here write to us any questions, Contact us&nbsp;</a>"
+        }
+      ]
+    },
+    "page17.html": {
+      "settings": {
+        "title": "Web Page Builder Title",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#615753"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#746964!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#7c706b"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-2u",
+          "_params": {
+            "bgColor": "#475577",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2v",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Site created with Mobirise",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "rock1v2<a href=\"mailto:support@mobirise.com\">@ymail.com</a>",
+          "title1": "Categories",
+          "text5": "<li><a class=\"text-white\" href=\"#\">Business</a></li><li><br></li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><br></li>",
+          "text6": "<strong>Contacts</strong><br>Email: rock1v2@ymail.com<br>Phone: +1&nbsp;<br>Fax: +1<br><br><br><strong>Address</strong><br><br>City, Montreal, Canada",
+          "form": {
+            "title": "MESSAGE",
+            "action": "rock1v2@ymail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Here write to us any questions, Contact us&nbsp;</a>"
+        }
+      ]
+    },
+    "ZodiacDef.html": {
+      "settings": {
+        "title": "WinVega Astrology",
+        "meta_descr": "Astrology site, Astrology software, Pierre Touchard, Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard,",
+        "order": 14
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#343e57"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#414e6d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#475577"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-v",
+          "_params": {
+            "bgColor": "#475577",
+            "fontSize": "0.9",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">ASTROLOGY ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 7&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega Screens and Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Dernières Infos &nbsp; (fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS &amp; MORE<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVscreens.html\">Presentation WinVega (en)<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"WVLinks.html\">Liens, Links to history, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=WinVega&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-w",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#444444"
+          },
+          "text": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2w",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Le zodiaque, vrai et supposé",
+          "meta": "Pierre Touchard avril 2018"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2x",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p><br></p><p>Le zodiaque n'est pas une bande matérielle, physique placé dans le ciel par l'imagination fertile des anciens. &nbsp; L'idée même du zodiaque correspond a une forme pensée non matérielle, spirituelle, divine en fait, c'est pourquoi les scientifiques de notre ère ne pourront jamais accepter l'idée du zodiaque.&nbsp;</p><p>Le zodiaque dans l'antiquité de Mésopotamie, qui offre les plus anciennes définitions, est une bande imaginaire en forme de cercle, qui courre au dela de l'écliptique, dans l'espace.&nbsp;</p><p>L'écliptique est le trajet du soleil vu depuis la terre.  Bien au dela du trajet de ce soleil, dans l'espace, courre ainsi un cercle divisé en 12 signes.  C'est la définition la plus simple.</p><p>Mais il y a deux zodiaques.   Il existe un zodiaque dit tropique, fondé sur le parcours du soleil physique tel que je viens de décrire, c'est ce zodiaque qui est utilisé depuis le moyen age en Europe.  Ce zodiaque a un point de départ, correspondant au premier signe, fixé sur le moment ou la soleil dans sa course passe au nord de l'équateur physique, tel que décrit par les astronomes.   C'est l'équinoxe de printemps que nous connaissons bien.&nbsp;</p><p><br></p><p>En Mésopotamie et en Inde le point de départ a toujours été fondé sur une autre mesure.   Celle ci n'a jamais été mesure matérielle comme l'équinoxe physique.   L'équinoxe de cette astrologie est nommée Divya, divin, ou spirituel, en Inde, il est décrit dans la Surya Siddantha, le livre des mesures astrologiques sacrées de l'Inde ancienne.&nbsp;</p><p><br></p><p>Cet équinoxe est fondé sur une géométrie des planètes non physiques, lesquels évoluent sur des cercles non physiques, fictifs ou pourrait dire.   En fait toute la géométrie du ciel astrologique ancien est Divya, non matérielle.   L'équinoxe Divya est calculé sur un calendrier Divya dont les mathématiques mystérieuses sont tenues quasi secrètes.   Ce domaine des sciences Divya est inconnu du public, inconnu mème de l'écrasante majorité des astrologues occidentaux, et même Indiens.   Il est décrit dans le Surya Siddantha, lequel est presque totalemment incompris à l'heure actuelle.  En restant simple, on peut dire que cette équinoxe est calculé sur un zodiaque dit fixe fondé sur une géométrie particulières des étoiles (et non pas une étoile) lointaines.&nbsp;</p><p>Cette équinoxe et ce zodiaque sont dit sidéral, soit rapportés aux étoiles.&nbsp;</p><p><br></p><p><br></p><p><b>L'Ayanamsa</b></p><p><br></p><p>Il existe une façon simplifiée de faire une carte du ciel sidérale en Inde moderne et maintenant en occident ou l'astrologie sidérale est mieux connue.   Depuis 2 siècles les astrologues croient que l'on peut calculer un décalage entre l'équinoxe physique bien connu, et l'équinoxe sidéral ou Divya.   Ce décalage suit selon eux une progression régulière depuis une certaine date, il le nomment Ayanamsa.&nbsp;</p><p>En fait ce terme Ayanamsa vient du Surya Siddantha (SS), et ne se calcule pas de cette façon.   SS donne les formules de calculs des planètes depuis une date fixe extrèmement reculée, selon des grands cercles.   La façon dont SS mesure l'Ayanamsa correspond a une récurrence des positions des équinoxes physiques et Divya, a certains intervals.  Le mode de calcul est très curieux, fondé sur un phénomène nommé Trépidation en latin.   Ce calcul est difficile a expliquer ici et nous tenterons plus tard de le publier en francais pour la première fois.&nbsp;</p><p><br></p><p>Ce qu'il faut garder en tête est que l'astrologie et le zodiaque sont exclusivement sidéraux depuis l'origine, ayant une géométrie invisible, et incalculable avec les moyens de mesures physiques.  L'influence astrale n'a jamais été physique, vu l'éloignement des planètes.&nbsp;</p><p><br></p><p><br></p><p><b>Les 12 signes</b></p><p><b><br></b></p><p>Le cercle zodiacal débute a l'équinoxe de printemps (divya, soit divine).  Voici les signes, chacun ayant 30 degrés:</p><p><br></p><p>Bélier  Mesha</p><p>Taureau  Vrishabha</p><p>Gémeaux Mithuna</p><p>Cancer  Karka</p><p>Lion   Simha</p><p>Vierge Kanya</p><p>Balance  Tula</p><p>Scorpion  Vrishchika</p><p>Sagittaire  Danush</p><p>Capricorne Makara</p><p>Verseau  Kumbha</p><p>Poisson  Mina</p><p><br></p><p>Le cercle des 12 signes ne correspond évidemment a aucune marque physique dans le ciel, ni a aucune constellation, comme beaucoup le croient.  Les constellations étaient des dessins imaginés par certains anciens voyant des images dans des groupes d'étoiles, lesquels groupes étaient fictifs.  Toute les mesures astrologiques du ciel sont fondés sur des progressions numérologiques, de nombres. Les signes sont associés a des divinités, ayant une certaine fonctions sur les karmas, selon le type d'expérience de chaque signe.&nbsp;</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p>",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
         }
       ]
     }
