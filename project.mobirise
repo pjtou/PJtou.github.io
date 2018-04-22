@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ZodiacDef.html",
+    "currentPage": "index.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -89,13 +89,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#fac51c",
@@ -3274,13 +3274,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#fac51c",
@@ -3471,13 +3471,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#fac51c",
@@ -3668,13 +3668,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#fac51c",
@@ -3865,13 +3865,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#615753"
+              "background": "#343e57"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#746964!important"
+              "background": "#414e6d!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#7c706b"
+              "background": "#475577"
             },
             ".bg-color.transparent .link": {
               "color": "#fac51c",
