@@ -80,10 +80,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -125,7 +125,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#475577",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -135,8 +135,8 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -193,7 +193,7 @@
             "showButtons": true
           },
           "title": "Jyotish, Hindu Astrology",
-          "text": "<br>This site presents Hindu (or Vedic, Jyotish) Astrology, various articles, some translations and articles on Hindu and Hellenistic Astrology, links, and the Winvega software which does Western, Ancient and Jyotish astrology as these branches have a commun 12 signs foundation.  The astrology in Win*Vega is based on the classics \"Brihat Parasara Hora Sastra\" and \"Upadesa Sutra\" by Jaimini.<br><br>Ce site présente l'astrologie Hindoue (ou Védique, Jyotish), plusieurs articles, des traductions&nbsp;et articles sur l'astrologie Hindoue, Héllénique, des liens, et le logiciel WinVega. &nbsp;<br>WinVega calcule l'astrologie occidentale moderne, ancienne et aussi l'astrologie Hindoue.<br>Ceci est possible grace à la nature commune à 12 signes de ces traditions.&nbsp;<br>L'astrologie Hindoue de WinVega est fondée sur le classique Brihat Parasara Hora Shastra,&nbsp;de Parasara, ainsi que Upadesa Sutra de Jaimini.<br><br>",
+          "text": "<br>This site presents Hindu (or Vedic, Jyotish) Astrology, some translations and articles on Hindu and Hellenistic Astrology, links, and the Winvega software which does Western, Ancient and Jyotish astrology as these branches have a commun 12 signs foundation.  The astrology in Win*Vega is based on the classics \"Brihat Parasara Hora Sastra\" and \"Upadesa Sutra\" by Jaimini.<br><br>Ce site présente l'astrologie Hindoue (ou Védique, Jyotish), des traductions&nbsp;et articles sur l'astrologie Hindoue, Héllénique, des liens, et le logiciel WinVega. &nbsp;<br>WinVega calcule l'astrologie occidentale moderne, ancienne et aussi l'astrologie Hindoue.<br>Ceci est possible grace à la nature commune à 12 signes de ces traditions.&nbsp;<br>L'astrologie Hindoue de WinVega est fondée sur le classique Brihat Parasara Hora Shastra,&nbsp;de Parasara, ainsi que Upadesa Sutra de Jaimini.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"DownloadWV.html\" data-toolbar=\"-mbrBtnMove\">Buy WinVega with Paypal</a>"
         },
         {
@@ -439,7 +439,7 @@
           "_anchor": "menu-1",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -449,7 +449,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -602,7 +602,7 @@
           "_anchor": "menu-3",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -612,7 +612,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -912,7 +912,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -922,7 +922,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -1090,7 +1090,7 @@
           "_anchor": "menu-7",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1100,7 +1100,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -1258,7 +1258,7 @@
           "_anchor": "menu-z",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1268,7 +1268,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -1427,7 +1427,7 @@
           "_anchor": "menu-19",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1437,7 +1437,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -1698,7 +1698,7 @@
           "_anchor": "menu-1d",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1708,7 +1708,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -1962,7 +1962,7 @@
           "_anchor": "menu-1h",
           "_params": {
             "bgColor": "#475577",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -1972,8 +1972,8 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -2493,7 +2493,7 @@
           "_anchor": "menu-1z",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -2503,7 +2503,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -2729,7 +2729,7 @@
           "_anchor": "menu-27",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -2739,7 +2739,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -2947,7 +2947,7 @@
           "_anchor": "menu-2e",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -2957,7 +2957,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -3165,7 +3165,7 @@
           "_anchor": "menu-2h",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -3175,7 +3175,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "collapsed": true,
             "hideButtons": false
@@ -3317,10 +3317,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3362,7 +3362,7 @@
           "_anchor": "menu-2o",
           "_params": {
             "bgColor": "#475577",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -3372,8 +3372,8 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -3514,10 +3514,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3559,7 +3559,7 @@
           "_anchor": "menu-2q",
           "_params": {
             "bgColor": "#475577",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -3569,8 +3569,8 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -3711,10 +3711,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -3756,7 +3756,7 @@
           "_anchor": "menu-2s",
           "_params": {
             "bgColor": "#475577",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -3766,8 +3766,8 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -3954,7 +3954,7 @@
           "_anchor": "menu-v",
           "_params": {
             "bgColor": "#475577",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -3964,8 +3964,8 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
@@ -4130,10 +4130,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.8rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.866rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4175,7 +4175,7 @@
           "_anchor": "menu-2u",
           "_params": {
             "bgColor": "#475577",
-            "fontSize": "0.9",
+            "fontSize": "0.8",
             "fontName": {
               "name": "Raleway",
               "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
@@ -4185,8 +4185,8 @@
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
-            "logo": false,
-            "showBrand": true,
+            "logo": true,
+            "showBrand": false,
             "collapsed": true,
             "hideButtons": true
           },
