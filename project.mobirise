@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "DownloadWV.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -2672,7 +2672,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"mailto:rock1v2@ymail.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD WINVEGA<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=69&amp;item_name=Download+WinVega+v7&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD WINVEGA<br></a>",
           "text": "English<br>Clic the Button on the right to go to the buying WinVega process with Paypal.<br>Once you are done with Paypal, the software will be sent to you by email<br>Our email address is below for any questions. &nbsp; <br><span style=\"font-size: 17px; line-height: 26px;\">WinVega costs 69$ as introductory price.</span><br>The conversion to your own currency si done by Paypal or your credit card.&nbsp;<br><br>Francais<br>Cliquez le bouton de droite pour aller sur la page de paiement de WinVega, par Paypal ou carte de crédit. &nbsp; &nbsp; <br>Le prix d'introduction de WinVega est de 69$ Canadien temporairement. &nbsp;La conversion selon la monnaie d'origine est faite par Paypal.&nbsp;<br><br>&nbsp;<br><br>",
           "title": ""
         },
