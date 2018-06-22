@@ -1236,11 +1236,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-1z .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-1z .dropdown-item,
 #menu-1z .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-1z .link:hover,
 #menu-1z .dropdown-item:hover,
