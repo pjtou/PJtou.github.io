@@ -930,6 +930,7 @@ h6,
 
 
 
+
 #menu-19 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -942,13 +943,14 @@ h6,
 #menu-19 .link,
 #menu-19 .dropdown-item {
   color: #fac51c;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-19 .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-19 .dropdown-item,
 #menu-19 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-19 .link:hover,
 #menu-19 .dropdown-item:hover,
