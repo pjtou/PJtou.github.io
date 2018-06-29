@@ -599,11 +599,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-3 .link {
-  font-size: 0.9rem;
+  font-size: 0.8rem;
 }
 #menu-3 .dropdown-item,
 #menu-3 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 0.866rem;
 }
 #menu-3 .link:hover,
 #menu-3 .dropdown-item:hover,
