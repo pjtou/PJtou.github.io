@@ -762,6 +762,7 @@ h6,
   background-color: #fac51c;
 }
 
+
 #header5-y .mbr-section-title {
   color: #28324e;
   font-size: 46px;
@@ -770,7 +771,7 @@ h6,
 }
 #header5-y .mbr-section-lead {
   color: #2a0737;
-  font-size: 20px;
+  font-size: 22px;
 }
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
@@ -784,6 +785,7 @@ h6,
 #menu-7 .link,
 #menu-7 .dropdown-item {
   color: #fac51c;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-7 .link {
   font-size: 0.9rem;
