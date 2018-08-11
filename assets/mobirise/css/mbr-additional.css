@@ -1206,6 +1206,7 @@ h6,
   font-size: 19px;
 }
 
+
 #header3-24 .mbr-section-title,
 #header3-24 .mbr-section-subtitle {
   text-align: center;
@@ -1224,6 +1225,7 @@ h6,
 #header1-23 .mbr-section-lead P {
   color: #13203e;
   font-size: 21px;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-1z .hide-buttons .nav-btn {
   display: none !important;
@@ -1240,11 +1242,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-1z .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-1z .dropdown-item,
 #menu-1z .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-1z .link:hover,
 #menu-1z .dropdown-item:hover,
