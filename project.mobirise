@@ -5213,7 +5213,7 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -5227,7 +5227,7 @@
         },
         {
           "_params": {
-            "paddingTop": "4",
+            "paddingTop": "2",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
