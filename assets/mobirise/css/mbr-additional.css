@@ -1833,11 +1833,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-2u .link {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
 }
 #menu-2u .dropdown-item,
 #menu-2u .nav-dropdown-sm .link {
-  font-size: 0.866rem;
+  font-size: 0.975rem;
 }
 #menu-2u .link:hover,
 #menu-2u .dropdown-item:hover,
@@ -2121,5 +2121,84 @@ h6,
 }
 #menu-3f .close-icon::before,
 #menu-3f .close-icon::after {
+  background-color: #fac51c;
+}
+
+#header3-3r .mbr-section-title,
+#header3-3r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3r .mbr-section-title {
+  font-size: 36px;
+}
+#content1-3q P {
+  font-size: 21px;
+}
+#menu-3o .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3o .navbar-caption {
+  color: #ffffff;
+}
+#menu-3o .navbar-toggler {
+  color: #fac51c;
+}
+#menu-3o .link,
+#menu-3o .dropdown-item {
+  color: #fac51c;
+  font-family: 'Raleway', sans-serif;
+}
+#menu-3o .link {
+  font-size: 0.9rem;
+}
+#menu-3o .dropdown-item,
+#menu-3o .nav-dropdown-sm .link {
+  font-size: 0.975rem;
+}
+#menu-3o .link:hover,
+#menu-3o .dropdown-item:hover,
+#menu-3o .link:focus,
+#menu-3o .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-3o .link[aria-expanded="true"],
+#menu-3o .dropdown-menu {
+  background: #343e57;
+}
+#menu-3o .nav-dropdown-sm .link:focus,
+#menu-3o .nav-dropdown-sm .link:hover,
+#menu-3o .nav-dropdown-sm .dropdown-item:focus,
+#menu-3o .nav-dropdown-sm .dropdown-item:hover {
+  background: #414e6d!important;
+}
+#menu-3o .navbar,
+#menu-3o .nav-dropdown-sm,
+#menu-3o .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3o .nav-dropdown-sm .dropdown-menu {
+  background: #475577;
+}
+#menu-3o .bg-color.transparent .link {
+  color: #fac51c;
+  transition: none;
+}
+#menu-3o .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3o .bg-color.transparent.opened .link:hover,
+#menu-3o .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-3o .link[aria-expanded="true"],
+#menu-3o .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-3o.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-3o .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3o .close-icon::before,
+#menu-3o .close-icon::after {
   background-color: #fac51c;
 }
