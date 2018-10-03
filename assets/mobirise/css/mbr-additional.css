@@ -1209,6 +1209,7 @@ h6,
 }
 
 
+
 #header3-24 .mbr-section-title,
 #header3-24 .mbr-section-subtitle {
   text-align: center;
@@ -1227,7 +1228,10 @@ h6,
 #header1-23 .mbr-section-lead P {
   color: #13203e;
   font-size: 21px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Oxygen', sans-serif;
+}
+#header1-23 .mbr-section-lead SPAN {
+  font-family: 'Oxygen', sans-serif;
 }
 #menu-1z .hide-buttons .nav-btn {
   display: none !important;
