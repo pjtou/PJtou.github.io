@@ -2155,11 +2155,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-3o .link {
-  font-size: 0.9rem;
+  font-size: 1.05rem;
 }
 #menu-3o .dropdown-item,
 #menu-3o .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.137rem;
 }
 #menu-3o .link:hover,
 #menu-3o .dropdown-item:hover,
@@ -2206,5 +2206,86 @@ h6,
 }
 #menu-3o .close-icon::before,
 #menu-3o .close-icon::after {
+  background-color: #fac51c;
+}
+
+
+#header3-3w .mbr-section-title,
+#header3-3w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-3w .mbr-section-title {
+  font-size: 30px;
+}
+#content1-3v P {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+#menu-3t .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3t .navbar-caption {
+  color: #ffffff;
+}
+#menu-3t .navbar-toggler {
+  color: #fac51c;
+}
+#menu-3t .link,
+#menu-3t .dropdown-item {
+  color: #fac51c;
+  font-family: 'Raleway', sans-serif;
+}
+#menu-3t .link {
+  font-size: 1.05rem;
+}
+#menu-3t .dropdown-item,
+#menu-3t .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#menu-3t .link:hover,
+#menu-3t .dropdown-item:hover,
+#menu-3t .link:focus,
+#menu-3t .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-3t .link[aria-expanded="true"],
+#menu-3t .dropdown-menu {
+  background: #343e57;
+}
+#menu-3t .nav-dropdown-sm .link:focus,
+#menu-3t .nav-dropdown-sm .link:hover,
+#menu-3t .nav-dropdown-sm .dropdown-item:focus,
+#menu-3t .nav-dropdown-sm .dropdown-item:hover {
+  background: #414e6d!important;
+}
+#menu-3t .navbar,
+#menu-3t .nav-dropdown-sm,
+#menu-3t .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3t .nav-dropdown-sm .dropdown-menu {
+  background: #475577;
+}
+#menu-3t .bg-color.transparent .link {
+  color: #fac51c;
+  transition: none;
+}
+#menu-3t .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3t .bg-color.transparent.opened .link:hover,
+#menu-3t .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-3t .link[aria-expanded="true"],
+#menu-3t .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-3t.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-3t .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3t .close-icon::before,
+#menu-3t .close-icon::after {
   background-color: #fac51c;
 }
