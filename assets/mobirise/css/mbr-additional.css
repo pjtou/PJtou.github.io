@@ -430,11 +430,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-0 .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -2287,5 +2287,82 @@ h6,
 }
 #menu-3t .close-icon::before,
 #menu-3t .close-icon::after {
+  background-color: #fac51c;
+}
+
+#header6-42 .mbr-section-title {
+  color: #28262b;
+  font-size: 32px;
+}
+#header6-42 .mbr-section-text {
+  color: #200f3c;
+  font-size: 17px;
+}
+#menu-3x .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3x .navbar-caption {
+  color: #ffffff;
+}
+#menu-3x .navbar-toggler {
+  color: #fac51c;
+}
+#menu-3x .link,
+#menu-3x .dropdown-item {
+  color: #fac51c;
+  font-family: 'Raleway', sans-serif;
+}
+#menu-3x .link {
+  font-size: 0.95rem;
+}
+#menu-3x .dropdown-item,
+#menu-3x .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-3x .link:hover,
+#menu-3x .dropdown-item:hover,
+#menu-3x .link:focus,
+#menu-3x .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-3x .link[aria-expanded="true"],
+#menu-3x .dropdown-menu {
+  background: #343e57;
+}
+#menu-3x .nav-dropdown-sm .link:focus,
+#menu-3x .nav-dropdown-sm .link:hover,
+#menu-3x .nav-dropdown-sm .dropdown-item:focus,
+#menu-3x .nav-dropdown-sm .dropdown-item:hover {
+  background: #414e6d!important;
+}
+#menu-3x .navbar,
+#menu-3x .nav-dropdown-sm,
+#menu-3x .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3x .nav-dropdown-sm .dropdown-menu {
+  background: #475577;
+}
+#menu-3x .bg-color.transparent .link {
+  color: #fac51c;
+  transition: none;
+}
+#menu-3x .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3x .bg-color.transparent.opened .link:hover,
+#menu-3x .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-3x .link[aria-expanded="true"],
+#menu-3x .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-3x.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-3x .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-3x .close-icon::before,
+#menu-3x .close-icon::after {
   background-color: #fac51c;
 }
