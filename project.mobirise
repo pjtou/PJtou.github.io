@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "SSWinVega.html",
+    "currentPage": "WVscreens.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 147,
+    "uniqCompNum": 149,
     "versionPublish": "4.7.8",
     "favicon": "",
     "noImageResize": "",
@@ -1076,10 +1076,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1952,10 +1952,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2089,7 +2089,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "67",
             "paddingTop": 0,
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -2147,9 +2147,9 @@
             "showText": false,
             "showButtons": true,
             "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "70",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
             "parallax": true,
@@ -2276,7 +2276,7 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "font-size": "19px"
+              "font-size": "32px"
             }
           },
           "_anchor": "msg-box5-2n",
@@ -2323,8 +2323,89 @@
             }
           },
           "title": "Exemple of a South Indian Square chart.  Here it is the Navamsa chart",
-          "text": "This south Indian chart is from the varga collection of WinVega, which calculates more than 16 vargas with several important variations..",
+          "text": "This south Indian chart is from the varga collection of WinVega, which calculates more than 16 vargas with several important variations, like the reverse vargas made with reverse calculations on even signs..",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "70",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ardra-ingres2018-970x669.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "The Ardra, meteorological chart of the year",
+          "text": "WinVega calculates mundane charts, for any position in the zodiac. &nbsp;Thsi chart is made from 66:40, 6:40 in gemini, which is the beginning of Ardra and gives weather predictions for the year. &nbsp;Any Sankranti, or entry into a sign can be easily made with WinVega. &nbsp; Solar Returns, Varshaphala, and lune return charts can be made also.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-43",
+          "_styles": {
+            "H3": {
+              "font-size": "32px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ardrawv8-976x714.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "<p>The Hindu module is extremely powerful and holds a large number of features, like many vargas, many dashas both Parasari and Jaimini, aspects for all vargas etc</p><br><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-44"
         }
       ]
     },
@@ -3611,10 +3692,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.8rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.866rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -4007,10 +4088,10 @@
               "font-family": "'Raleway', sans-serif"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.95rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
