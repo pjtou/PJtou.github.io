@@ -5,6 +5,7 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 
 
 
@@ -2368,4 +2369,90 @@ h6,
 #menu-3x .close-icon::before,
 #menu-3x .close-icon::after {
   background-color: #fac51c;
+}
+
+
+
+#menu-45 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-45 .navbar-caption {
+  color: #ffffff;
+}
+#menu-45 .navbar-toggler {
+  color: #fac51c;
+}
+#menu-45 .link,
+#menu-45 .dropdown-item {
+  color: #fac51c;
+  font-family: 'Raleway', sans-serif;
+}
+#menu-45 .link {
+  font-size: 0.95rem;
+}
+#menu-45 .dropdown-item,
+#menu-45 .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-45 .link:hover,
+#menu-45 .dropdown-item:hover,
+#menu-45 .link:focus,
+#menu-45 .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-45 .link[aria-expanded="true"],
+#menu-45 .dropdown-menu {
+  background: #343e57;
+}
+#menu-45 .nav-dropdown-sm .link:focus,
+#menu-45 .nav-dropdown-sm .link:hover,
+#menu-45 .nav-dropdown-sm .dropdown-item:focus,
+#menu-45 .nav-dropdown-sm .dropdown-item:hover {
+  background: #414e6d!important;
+}
+#menu-45 .navbar,
+#menu-45 .nav-dropdown-sm,
+#menu-45 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-45 .nav-dropdown-sm .dropdown-menu {
+  background: #475577;
+}
+#menu-45 .bg-color.transparent .link {
+  color: #fac51c;
+  transition: none;
+}
+#menu-45 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-45 .bg-color.transparent.opened .link:hover,
+#menu-45 .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-45 .link[aria-expanded="true"],
+#menu-45 .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-45.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-45 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-45 .close-icon::before,
+#menu-45 .close-icon::after {
+  background-color: #fac51c;
+}
+#header3-47 .mbr-section-title,
+#header3-47 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-47 .mbr-section-title {
+  font-size: 36px;
+}
+#content1-48 P {
+  font-size: 21px;
+  font-family: 'Oxygen', sans-serif;
+}
+#content1-48 DIV {
+  font-size: 21px;
+  font-family: 'Rubik', sans-serif;
 }
