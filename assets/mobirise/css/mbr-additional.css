@@ -432,11 +432,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-0 .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -2541,4 +2541,109 @@ h6,
 #menu-49 .close-icon::before,
 #menu-49 .close-icon::after {
   background-color: #fac51c;
+}
+
+
+
+
+#menu-4d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-4d .navbar-caption {
+  color: #ffffff;
+}
+#menu-4d .navbar-toggler {
+  color: #fac51c;
+}
+#menu-4d .link,
+#menu-4d .dropdown-item {
+  color: #fac51c;
+  font-family: 'Raleway', sans-serif;
+}
+#menu-4d .link {
+  font-size: 0.95rem;
+}
+#menu-4d .dropdown-item,
+#menu-4d .nav-dropdown-sm .link {
+  font-size: 1.029rem;
+}
+#menu-4d .link:hover,
+#menu-4d .dropdown-item:hover,
+#menu-4d .link:focus,
+#menu-4d .dropdown-item:focus {
+  color: #ffffff;
+}
+#menu-4d .link[aria-expanded="true"],
+#menu-4d .dropdown-menu {
+  background: #343e57;
+}
+#menu-4d .nav-dropdown-sm .link:focus,
+#menu-4d .nav-dropdown-sm .link:hover,
+#menu-4d .nav-dropdown-sm .dropdown-item:focus,
+#menu-4d .nav-dropdown-sm .dropdown-item:hover {
+  background: #414e6d!important;
+}
+#menu-4d .navbar,
+#menu-4d .nav-dropdown-sm,
+#menu-4d .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-4d .nav-dropdown-sm .dropdown-menu {
+  background: #475577;
+}
+#menu-4d .bg-color.transparent .link {
+  color: #fac51c;
+  transition: none;
+}
+#menu-4d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-4d .bg-color.transparent.opened .link:hover,
+#menu-4d .bg-color.transparent.opened .link:focus {
+  color: #ffffff;
+}
+#menu-4d .link[aria-expanded="true"],
+#menu-4d .dropdown-item[aria-expanded="true"] {
+  color: #ffffff!important;
+}
+#menu-4d.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-4d .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#menu-4d .close-icon::before,
+#menu-4d .close-icon::after {
+  background-color: #fac51c;
+}
+#header3-4g .mbr-section-title,
+#header3-4g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4g .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4g .mbr-section-title {
+  font-size: 32px;
+}
+#content1-4f DIV {
+  font-size: 21px;
+  font-family: 'Merriweather', serif;
+}
+#msg-box6-4k .mbr-section-title,
+#msg-box6-4k .lead p {
+  color: #fff;
+}
+#msg-box6-4k H3 {
+  font-size: 25px;
+  color: #000000;
+}
+#msg-box6-4k P {
+  font-size: 19px;
+}
+#content1-4l P {
+  font-family: 'Merriweather', serif;
+  font-size: 21px;
+}
+#content1-4p P {
+  font-size: 21px;
+  font-family: 'Merriweather', serif;
 }
