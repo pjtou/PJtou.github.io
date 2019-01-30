@@ -6655,11 +6655,11 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "Astrologie Mondiale &nbsp;Medini",
+          "title": "Astrologie Mondiale, &nbsp;Medini<br><br>",
           "meta": "<span style=\"font-style: normal;\"></span>",
           "_tags": [
             "Theme"
