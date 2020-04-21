@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WVupdate.html",
+    "currentPage": "WVscreens.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 174,
+    "uniqCompNum": 175,
     "versionPublish": "4.9.1",
     "favicon": "",
     "noImageResize": "",
@@ -1029,6 +1029,11 @@
             ".mbr-section-lead": {
               "color": "#2a0737",
               "font-size": "22px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             }
           },
           "_tags": [
@@ -1852,7 +1857,34 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>WIn*Vega is built with the notion of a transparency between Vedic astrology and the western methods., &nbsp;Since both astrologies are built exactly the same way with 12 signs and planets, aspects etc, this is possible. &nbsp; People used to deal with a round chartwheel can use it as well as people used to a square chart like in India. &nbsp; Look below for exemples of charts.&nbsp;</p><p>The only exception is that the Hindu module for now uses the square chart format. &nbsp; Also the techniques used in India, like Dashas and Vargas, are only on the Hindu module. &nbsp;Most of the western methods are also available on the Hindu module, though.&nbsp;</p>"
+          "text": "<p>WIn*Vega is built with the notion of a transparency between Vedic astrology and the western methods., &nbsp;Since both astrologies are built exactly the same way with 12 signs and planets, aspects etc, this is possible. &nbsp; People used to deal with a round chartwheel can use it as well as people used to a square chart like in India. &nbsp; Look below for exemples of charts.&nbsp;</p><p>The only exception is that the Hindu module for now uses the square chart format. &nbsp; Also the techniques used in India, like Dashas and Vargas, are only on the Hindu module. &nbsp;Most of the western methods are also available on the Hindu module, though.&nbsp;</p><p><br></p><p>The chart below is that of the year 1939, April 13, set for the ancient center of the Earth. &nbsp; Note that this chart has Kala Sarpa Yoga, serpent Yoga, a not entirely wholesome combination. &nbsp; This World chart valid for the next 360 years had Kala Sarpa Yoga like the World chart for 2020 also had Kala Sarpa Yoga, and started in the midst of the cirus infection, while the 1939 chart started with World War 2.&nbsp;</p><p><br></p><p>Here the Sun, though exalted, sits in 6th house with Saturn, which is destroyed as ruler of the 4th house of home and land destruction, events happening to many countries in the coming world war.. &nbsp;</p>"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/worldchartmerucapture-1-686x700.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "4:3",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<p>Cut down the development time with drag-and-drop website builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-4u"
         },
         {
           "_styles": {
@@ -1914,7 +1946,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/exnthindian-488x458.jpg",
+              "src": "@PROJECT_PATH@/assets/images/diamond1capture-467x592.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1932,7 +1964,7 @@
             }
           },
           "title": "North Indian Chart",
-          "text": "This screen shows the Indian Module in North Indian (Diamond) format. &nbsp;The planets, signs and house numbers are shown (where they fall in a sign). At bottom is a line showing the Most Benefic, Benefic, Malefic planets, plus any that might for a Raja Yoga for this Asc.",
+          "text": "This screen shows the Indian Module in North Indian (Diamond) format. &nbsp;The planets, signs and house numbers are shown (where they fall in a sign). At bottom is a listing of planets in zodiac, with their rulers, friendships, nakshatras, lords etc. &nbsp;Further right is a listing of the varga (not shown) with their friendships, Deities...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -2109,7 +2141,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/exlouis14-777x647.jpg",
+              "src": "@PROJECT_PATH@/assets/images/srworld2020capture-672x387.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2126,8 +2158,8 @@
               "size": 0
             }
           },
-          "title": "A chart typical of anglo wheels",
-          "text": "This wheel displays the Sripati house system, a variant of Porphyry with cusps in the middle of houses, as it was done before.",
+          "title": "A Diamond chart for the Year 2020, Entry into Aries",
+          "text": "Upper let we see data fdor the chart with the Panchanga information, a listing of Dasa (amond 20 Dasas available)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -2223,7 +2255,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2dashas-664x623.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2dasacapture-211x612.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2241,7 +2273,7 @@
             }
           },
           "title": "2 dashas can be displayed on the Hindu module",
-          "text": "This screen shows all planets, the friendships they hold in their signs, their lord, nakshatras, whether retrograde.&nbsp;<br>The rightmost list here holds the divisional planets (not displayed on this ex), the dignities (avastas), the deities, and the part number in the natal sign.",
+          "text": "This screen shows color coded 2 Dasas, the Simsottari and a version of Chara Dasa. &nbsp;There are 4 versions of Chara available in WinVega 9. On top is a line showing the Benefic and Malefic planets for this chart.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {

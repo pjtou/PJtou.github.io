@@ -765,6 +765,7 @@ h6,
 }
 
 
+
 #header5-y .mbr-section-title {
   color: #28324e;
   font-size: 46px;
@@ -774,6 +775,10 @@ h6,
 #header5-y .mbr-section-lead {
   color: #2a0737;
   font-size: 22px;
+}
+#header5-y .mbr-section-lead SPAN {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
