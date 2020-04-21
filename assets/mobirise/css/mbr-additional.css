@@ -7,6 +7,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -1829,11 +1830,15 @@ h6,
 #header3-2y SMALL {
   color: #2b0680;
 }
+#header3-2y .mbr-section-title {
+  font-size: 25px;
+}
 #msg-box2-31 .mbr-section-title {
   color: #fff;
 }
 #msg-box2-31 .mbr-section-subtitle {
   color: #a0a0a0;
+  font-size: 19px;
 }
 #menu-2u .hide-buttons .nav-btn {
   display: none !important;
@@ -1850,11 +1855,11 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 #menu-2u .link {
-  font-size: 0.9rem;
+  font-size: 0.95rem;
 }
 #menu-2u .dropdown-item,
 #menu-2u .nav-dropdown-sm .link {
-  font-size: 0.975rem;
+  font-size: 1.029rem;
 }
 #menu-2u .link:hover,
 #menu-2u .dropdown-item:hover,
@@ -2733,7 +2738,7 @@ h6,
   font-size: 24px;
 }
 #content1-4t P {
-  font-size: 19px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
   color: #151417;
 }
