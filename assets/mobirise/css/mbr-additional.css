@@ -5,9 +5,9 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 
 
 
@@ -1239,7 +1239,7 @@ h6,
 #header1-23 .mbr-section-lead P {
   color: #13203e;
   font-size: 21px;
-  font-family: 'Oxygen', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 #header1-23 .mbr-section-lead SPAN {
   font-family: 'Oxygen', sans-serif;
