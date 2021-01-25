@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WVLinks.html",
+    "currentPage": "TradDignities.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -1543,7 +1543,7 @@
             "bgColor": "#fff"
           },
           "title": "Dignités Traditionnelles",
-          "meta": "Pierre Touchard. Rev 2018<br>"
+          "meta": "Rev 2018<br>"
         },
         {
           "_tags": [
@@ -5344,7 +5344,7 @@
             "bgColor": "#fff"
           },
           "title": "Charts calculations of Surya Siddhanta",
-          "meta": "Pierre Touchard, oct 2018",
+          "meta": "oct 2018",
           "_tags": [
             "Theme"
           ],
