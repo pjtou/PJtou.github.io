@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WVupdate.html",
+    "currentPage": "AboutPierre.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -5872,11 +5872,12 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/pierre-501x539.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
