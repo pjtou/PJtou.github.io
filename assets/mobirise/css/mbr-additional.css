@@ -2184,12 +2184,14 @@ section.form .container {
 }
 
 
+
 #content2-5v BLOCKQUOTE {
   font-size: 20px;
   font-family: 'Raleway', sans-serif;
 }
 #content2-5v P {
   font-size: 20px;
+  font-family: 'Raleway', sans-serif;
 }
 #menu-5t .hide-buttons .nav-btn {
   display: none !important;
