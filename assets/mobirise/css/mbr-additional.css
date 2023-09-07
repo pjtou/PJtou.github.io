@@ -1362,14 +1362,19 @@ section.form .container {
   background-color: #fac51c;
 }
 
+
+
 #msg-box1-2d H3 {
-  font-size: 24px;
+  font-size: 19px;
+  font-family: 'Lora', serif;
 }
 #msg-box1-2d SPAN {
-  font-size: 24px;
+  font-size: 19px;
+  font-family: 'Lora', serif;
 }
 #msg-box1-2d H2 {
   font-size: 18px;
+  color: #200f3c;
 }
 #menu-27 .hide-buttons .nav-btn {
   display: none !important;
