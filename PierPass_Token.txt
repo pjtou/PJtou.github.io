@@ -5,6 +5,10 @@ Mobirise pass
 MobiPier57%
 
 token
+
+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
+
+token fine grain
 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
 
 
