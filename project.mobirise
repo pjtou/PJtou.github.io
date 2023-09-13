@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "WVegaUpdates2022.html",
+    "currentPage": "DownloadWV.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 236,
+    "uniqCompNum": 242,
     "versionPublish": "5.8.14",
     "favicon": "@PROJECT_PATH@/assets/images/1654025970114-128x139.png",
     "noImageResize": "",
@@ -177,7 +177,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSULTATION<br> IN ASTROLOGY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Consultations.html\" aria-expanded=\"false\">Consultations Astrologiques</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"SolsticesJyotish.pdf.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JyotishAsVeda.html\" aria-expanded=\"false\">What is Vedic Astrology or Indian Astrology</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Medini1.html\" aria-expanded=\"false\">Astrologie Mondiale</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SuryaSiddhanta1.html\" aria-expanded=\"false\">Charts calculated with Surya Siddhanta &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/SolsticesJyotish.pdf\" aria-expanded=\"false\">Solstices et Equinoxes Sidéraux (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SolarYearSiddhanta.html\" aria-expanded=\"false\">Vinay Jha on the year length &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ayanamsa.html\" aria-expanded=\"false\">On the Original Ayanamsa &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AyanamsaFR.html\" aria-expanded=\"false\">A propos de l'ayanamsa original &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\" target=\"_blank\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/75-TheOriginalLomashaSamhita-1.pdf\" aria-expanded=\"false\" target=\"_blank\">Lomasha Samhita, Original text by ancient Rishi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 9&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVegaUpdates2022.html\" aria-expanded=\"false\" target=\"_blank\">Latest Updates<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Installation&nbsp; &nbsp;(fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SSWinVega.html\" aria-expanded=\"false\">Surya Siddhanta dans WinVega (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega examples Screens &amp; Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS etc<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AboutPierre.html\">A propos de l'auteur, about the author<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVLinks.html\">Liens, Links to history, Astrology, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSULTATION<br> IN ASTROLOGY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ConsultationsENG.html\" aria-expanded=\"true\">Consultations in English</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Consultations.html\" aria-expanded=\"true\">Consultations en Francais</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"SolsticesJyotish.pdf.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JyotishAsVeda.html\" aria-expanded=\"false\">What is Vedic Astrology or Indian Astrology</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Medini1.html\" aria-expanded=\"false\">Astrologie Mondiale</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SuryaSiddhanta1.html\" aria-expanded=\"false\">Charts calculated with Surya Siddhanta &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/SolsticesJyotish.pdf\" aria-expanded=\"false\">Solstices et Equinoxes Sidéraux (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SolarYearSiddhanta.html\" aria-expanded=\"false\">Vinay Jha on the year length &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ayanamsa.html\" aria-expanded=\"false\">On the Original Ayanamsa &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AyanamsaFR.html\" aria-expanded=\"false\">A propos de l'ayanamsa original &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\" target=\"_blank\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/75-TheOriginalLomashaSamhita-1.pdf\" aria-expanded=\"false\" target=\"_blank\">Lomasha Samhita, Original text by ancient Rishi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 9&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVegaUpdates2022.html\" aria-expanded=\"false\" target=\"_blank\">Latest Updates<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Installation&nbsp; &nbsp;(fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SSWinVega.html\" aria-expanded=\"false\">Surya Siddhanta dans WinVega (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega examples Screens &amp; Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS etc<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AboutPierre.html\">A propos de l'auteur, about the author<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVLinks.html\">Liens, Links to history, Astrology, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -216,7 +216,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Jyotish, Hindu Astrology",
-          "text": "<br>This site presents Hindu (or Vedic, Jyotish) Astrology, some translations and articles on Hindu and Hellenistic Astrology, links, and the Winvega software which does Western, Ancient and Jyotish astrology as these branches have a commun 12 signs foundation.  The astrology in Win*Vega is based on the classics \"Brihat Parasara Hora Sastra\" and \"Upadesa Sutra\" by Jaimini.<br><br>Ce site présente l'astrologie Hindoue (ou Védique, Jyotish), des traductions&nbsp;et articles sur l'astrologie Hindoue, Héllénique, des liens, et le logiciel WinVega. &nbsp;<br>WinVega calcule l'astrologie occidentale moderne, ancienne et l'astrologie Hindoue,<br>rendu possible grace à la nature à 12 signes de ces traditions.&nbsp;<br>L'astrologie Hindoue de WinVega est fondée sur le classique Brihat Parasara Hora Shastra,&nbsp;de Parasara, ainsi que Upadesa Sutra de Jaimini.<br><br>",
+          "text": "<br>This site presents Hindu (or Vedic, Jyotish) Astrology, some translations and articles on Hindu and Hellenistic Astrology, links, and the Winvega software.&nbsp; This provides Western, Ancient and Jyotish astrology as these branches have a commun 12 signs foundation.  The astrology in Win*Vega is based on the classics \"Brihat Parasara Hora Sastra\" and \"Upadesa Sutra\" by Jaimini.<br><br>Ce site présente l'astrologie Hindoue (ou Védique, Jyotish), des traductions&nbsp;et articles sur l'astrologie Hindoue et Héllénique, des liens, et le logiciel WinVega. &nbsp;<br>WinVega offre les calculs d'astrologie occidentale moderne, ancienne et de l'astrologie Hindoue, rendu possible grace à la nature à 12 signes de ces traditions.&nbsp;<br>L'astrologie Védique de WinVega est fondée sur les classique Brihat Parasara Hora Shastra,&nbsp;de Parasara, et Upadesa Sutra de Jaimini.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WInVega%20v9&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\">Buy WinVega with Paypal</a>",
           "_sourceTheme": "mobirise3"
         },
@@ -374,7 +374,7 @@
     "DasasJyotish.html": {
       "settings": {
         "title": "Dasas en Astrologie",
-        "order": "17",
+        "order": "18",
         "meta_descr": "Dasas, Dashas, périodes,  Hindu astrology, Greek astrology, Astrology Indienne, Jyotish, VImshottair, Ashtottari, Shodasottari, Kalachakra,  Périodes Aphétiques, Zodiacal releasing"
       },
       "components": [
@@ -570,7 +570,7 @@
       "settings": {
         "meta_descr": "Pierre touchard, logiciel astrologique, astrology software, winvega 9, jyotish software, astrology hindu, hindoue",
         "title": "Introduction a WinVega",
-        "order": "10"
+        "order": "11"
       },
       "components": [
         {
@@ -797,7 +797,7 @@
       "settings": {
         "title": "Gunas and Doshas of Planets",
         "meta_descr": "Gunas, Doshas, Parashara, Spujidhava, Sattva, Raja, Tamas, Vata, Vatta, Pitta, Kapha",
-        "order": "11"
+        "order": "12"
       },
       "components": [
         {
@@ -1062,7 +1062,7 @@
     },
     "WVPresent.html": {
       "settings": {
-        "order": "12",
+        "order": "13",
         "meta_descr": "Presentation de Winvega, astrology software,  logiciel astrologique\nPierre Touchard",
         "title": "Win*Vega Presentation"
       },
@@ -1236,7 +1236,7 @@
       "settings": {
         "meta_descr": "Web Builder Description",
         "title": "WVtechniques",
-        "order": "13"
+        "order": "14"
       },
       "components": [
         {
@@ -1409,7 +1409,7 @@
       "settings": {
         "meta_descr": "DIgnités astrologiques, traditionnelles, Ptolémée, Lilly, Secte, Section,  Hayz, triplicités, rulership, maitre, exaltation, termes, Pierre Touchard, Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard,",
         "title": "TradDIgnities",
-        "order": "14"
+        "order": "15"
       },
       "components": [
         {
@@ -1694,7 +1694,7 @@
       "settings": {
         "meta_descr": "Ptolemy, Ptolémée, Eminence, Astrologie, Rang Social, traduction en francais, Pierre Touchard, Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard,",
         "title": "RangSocial",
-        "order": "15"
+        "order": "16"
       },
       "components": [
         {
@@ -1869,7 +1869,7 @@
       "settings": {
         "meta_descr": "Pierre Touchard, Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard, WinVega screens, windows, jyotish chartwheels roues astrologiques",
         "title": "WVscreens",
-        "order": "16"
+        "order": "17"
       },
       "components": [
         {
@@ -2531,7 +2531,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Shankhya Philosophy and Astrology",
-        "order": "22"
+        "order": "23"
       },
       "components": [
         {
@@ -2900,7 +2900,7 @@
       "settings": {
         "meta_descr": "Download WV",
         "title": "Download WinVega",
-        "order": "18"
+        "order": "19"
       },
       "components": [
         {
@@ -2916,7 +2916,8 @@
               "font-size": "24px"
             },
             "H2": {
-              "font-size": "18px"
+              "font-size": "18px",
+              "color": "#200f3c"
             }
           },
           "_anchor": "msg-box1-2d",
@@ -2940,9 +2941,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FULL WINVEGA<br></a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=40&amp;item_name=Download%20Update%20WinVega%20v9&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPDATE for V8 and lower<br></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FULL WINVEGA<br></a> <a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=39&amp;item_name=Download%20Update%20WinVega%20v9&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">UPDATE for V8 and lower<br></a>",
           "text": "English<br>The button on the right goes to Paypal, the software will be sent to you by email<br>Our email address is below for any questions. &nbsp;<br> <br><span style=\"font-size: 17px; line-height: 26px;\">WinVega costs 129$ Canadian Dollars.</span><br>The conversion to your own currency is done by Paypal or your credit card.&nbsp;<br><br>Francais<br>Cliquez le bouton de droite pour aller sur la page de paiement de WinVega, par Paypal. &nbsp; &nbsp;<br>Le prix de WinVega est de 129$ Dollars Canadien. &nbsp;La conversion selon la monnaie d'origine est faite par Paypal.&nbsp;<br><br>",
-          "title": "Update<br>Previous owners of WinVega v8 (or lower) can update&nbsp;<br>to v9 for 40$.&nbsp; Email me to apply",
+          "title": "Update<br>Previous owners of WinVega v8 (or lower) can update&nbsp;<br>to v9 for 39$.&nbsp; Email me to apply",
           "_sourceTheme": "mobirise3"
         },
         {
@@ -3147,7 +3148,7 @@
       "settings": {
         "meta_descr": "Chara, Navamsa, Mankooka, Kalachakra, Niyana, Shoola, Ashtottari, Shodashottari",
         "title": "DasasWV",
-        "order": "19"
+        "order": "20"
       },
       "components": [
         {
@@ -3396,7 +3397,7 @@
       "settings": {
         "meta_descr": "Astrology, Shankhya, alternative news, philosophy, Jyotish",
         "title": "Links, Liens Medias, Politique, Histoire, religion",
-        "order": "20"
+        "order": "21"
       },
       "components": [
         {
@@ -3621,7 +3622,7 @@
       "settings": {
         "title": "Zodiaques, differentes mesures",
         "meta_descr": "Astrology site, Astrology software, Pierre Touchard, Jyotish, Hindu Astrology, Parasara, Jaimini, Ptolémée, Vettius Valens, Surya Siddantha, Pierre Touchard,",
-        "order": "21"
+        "order": "22"
       },
       "components": [
         {
@@ -3821,7 +3822,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Ayanamsa",
-        "order": "8"
+        "order": "9"
       },
       "components": [
         {
@@ -4105,7 +4106,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "AyanamsaFr",
-        "order": "9"
+        "order": "10"
       },
       "components": [
         {
@@ -4384,7 +4385,7 @@
       "settings": {
         "meta_descr": "Surya Siddhanta, Bhaskara, Beeja, Samskara",
         "title": "SSinWinVega",
-        "order": "7"
+        "order": "8"
       },
       "components": [
         {
@@ -4676,7 +4677,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "ABoutPierre",
-        "order": "6"
+        "order": "7"
       },
       "components": [
         {
@@ -4943,7 +4944,7 @@
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "Medini, Mundane Astrology",
-        "order": "5"
+        "order": "6"
       },
       "components": [
         {
@@ -5326,7 +5327,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Surya Siddhanta",
-        "order": "4"
+        "order": "5"
       },
       "components": [
         {
@@ -5581,7 +5582,7 @@
       "settings": {
         "meta_descr": "Web Site Maker Description",
         "title": "WVegaUpdates2022.html",
-        "order": "3"
+        "order": "4"
       },
       "components": [
         {
@@ -5744,7 +5745,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSULTATION<br> IN ASTROLOGY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Consultations.html\" aria-expanded=\"false\">Consultations Astrologiques</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"SolsticesJyotish.pdf.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JyotishAsVeda.html\" aria-expanded=\"false\">What is Vedic Astrology or Indian Astrology</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Medini1.html\" aria-expanded=\"false\">Astrologie Mondiale</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SuryaSiddhanta1.html\" aria-expanded=\"false\">Charts calculated with Surya Siddhanta &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/SolsticesJyotish.pdf\" aria-expanded=\"false\">Solstices et Equinoxes Sidéraux (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SolarYearSiddhanta.html\" aria-expanded=\"false\">Vinay Jha on the year length &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ayanamsa.html\" aria-expanded=\"false\">On the Original Ayanamsa &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AyanamsaFR.html\" aria-expanded=\"false\">A propos de l'ayanamsa original &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\" target=\"_blank\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/75-TheOriginalLomashaSamhita-1.pdf\" aria-expanded=\"false\" target=\"_blank\">Lomasha Samhita, Original text by ancient Rishi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 9&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVegaUpdates2022.html\" aria-expanded=\"false\" target=\"_blank\">Latest Updates<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Installation&nbsp; &nbsp;(fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SSWinVega.html\" aria-expanded=\"false\">Surya Siddhanta dans WinVega (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega examples Screens &amp; Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS etc<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AboutPierre.html\">A propos de l'auteur, about the author<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVLinks.html\">Liens, Links to history, Astrology, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSULTATION<br> IN ASTROLOGY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ConsultationsENG.html\" aria-expanded=\"true\">Consultations in English</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Consultations.html\" aria-expanded=\"true\">Consultations en Francais</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"SolsticesJyotish.pdf.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JyotishAsVeda.html\" aria-expanded=\"false\">What is Vedic Astrology or Indian Astrology</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Medini1.html\" aria-expanded=\"false\">Astrologie Mondiale</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SuryaSiddhanta1.html\" aria-expanded=\"false\">Charts calculated with Surya Siddhanta &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/SolsticesJyotish.pdf\" aria-expanded=\"false\">Solstices et Equinoxes Sidéraux (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SolarYearSiddhanta.html\" aria-expanded=\"false\">Vinay Jha on the year length &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ayanamsa.html\" aria-expanded=\"false\">On the Original Ayanamsa &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AyanamsaFR.html\" aria-expanded=\"false\">A propos de l'ayanamsa original &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\" target=\"_blank\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/75-TheOriginalLomashaSamhita-1.pdf\" aria-expanded=\"false\" target=\"_blank\">Lomasha Samhita, Original text by ancient Rishi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 9&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVegaUpdates2022.html\" aria-expanded=\"false\" target=\"_blank\">Latest Updates<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Installation&nbsp; &nbsp;(fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SSWinVega.html\" aria-expanded=\"false\">Surya Siddhanta dans WinVega (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega examples Screens &amp; Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS etc<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AboutPierre.html\">A propos de l'auteur, about the author<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVLinks.html\">Liens, Links to history, Astrology, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>",
           "_sourceTheme": "mobirise3",
           "_anchor": "menu-5t"
         },
@@ -5864,7 +5865,7 @@
       "settings": {
         "meta_descr": "Jyotish and Vedas",
         "title": "JyotishFromVedas",
-        "order": "2"
+        "order": "3"
       },
       "components": [
         {
@@ -6128,7 +6129,7 @@
     "Consultations.html": {
       "settings": {
         "meta_descr": "Consulting services, astrology questions, phone consultations, poser une question, consultation",
-        "title": "Consultations",
+        "title": "ConsultationsFR",
         "order": "1"
       },
       "components": [
@@ -6228,7 +6229,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSULTATION<br> IN ASTROLOGY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Consultations.html\" aria-expanded=\"false\">Consultations Astrologiques</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"SolsticesJyotish.pdf.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JyotishAsVeda.html\" aria-expanded=\"false\">What is Vedic Astrology or Indian Astrology</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Medini1.html\" aria-expanded=\"false\">Astrologie Mondiale</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SuryaSiddhanta1.html\" aria-expanded=\"false\">Charts calculated with Surya Siddhanta &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/SolsticesJyotish.pdf\" aria-expanded=\"false\">Solstices et Equinoxes Sidéraux (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SolarYearSiddhanta.html\" aria-expanded=\"false\">Vinay Jha on the year length &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ayanamsa.html\" aria-expanded=\"false\">On the Original Ayanamsa &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AyanamsaFR.html\" aria-expanded=\"false\">A propos de l'ayanamsa original &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\" target=\"_blank\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/75-TheOriginalLomashaSamhita-1.pdf\" aria-expanded=\"false\" target=\"_blank\">Lomasha Samhita, Original text by ancient Rishi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 9&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVegaUpdates2022.html\" aria-expanded=\"false\" target=\"_blank\">Latest Updates<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Installation&nbsp; &nbsp;(fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SSWinVega.html\" aria-expanded=\"false\">Surya Siddhanta dans WinVega (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega examples Screens &amp; Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS etc<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AboutPierre.html\">A propos de l'auteur, about the author<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVLinks.html\">Liens, Links to history, Astrology, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSULTATION<br> IN ASTROLOGY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ConsultationsENG.html\" aria-expanded=\"true\">Consultations in English</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Consultations.html\" aria-expanded=\"true\">Consultations en Francais</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"SolsticesJyotish.pdf.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JyotishAsVeda.html\" aria-expanded=\"false\">What is Vedic Astrology or Indian Astrology</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Medini1.html\" aria-expanded=\"false\">Astrologie Mondiale</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SuryaSiddhanta1.html\" aria-expanded=\"false\">Charts calculated with Surya Siddhanta &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/SolsticesJyotish.pdf\" aria-expanded=\"false\">Solstices et Equinoxes Sidéraux (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SolarYearSiddhanta.html\" aria-expanded=\"false\">Vinay Jha on the year length &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ayanamsa.html\" aria-expanded=\"false\">On the Original Ayanamsa &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AyanamsaFR.html\" aria-expanded=\"false\">A propos de l'ayanamsa original &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\" target=\"_blank\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/75-TheOriginalLomashaSamhita-1.pdf\" aria-expanded=\"false\" target=\"_blank\">Lomasha Samhita, Original text by ancient Rishi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 9&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVegaUpdates2022.html\" aria-expanded=\"false\" target=\"_blank\">Latest Updates<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Installation&nbsp; &nbsp;(fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SSWinVega.html\" aria-expanded=\"false\">Surya Siddhanta dans WinVega (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega examples Screens &amp; Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS etc<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AboutPierre.html\">A propos de l'auteur, about the author<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVLinks.html\">Liens, Links to history, Astrology, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>",
           "_sourceTheme": "mobirise3",
           "_anchor": "menu-62"
         },
@@ -6317,8 +6318,8 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Question par téléphone <br>(Eng ou Fr)",
-          "text": "<p>Une consultation rapide par téléphone de 20 minutes.  Ici nous répondons a une question ou une situation précise.&nbsp;<span style=\"font-size: 1.07rem;\">On dresse la carte du ciel voir un thème horaire (Muhurta) pour analyser la situation.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">Par email vous enverrez vos coordonnées : jour, mois, année de naissance, ainsi que l'heure et la ville natale.  Nous convenons de l'heure et du jour.</span></p><p>Le paiement se fait par Paypal</p><p>\n</p>",
+          "title": "Question par téléphone <br>(Fr)",
+          "text": "<p>Une consultation rapide par téléphone de 20 minutes.  Ici nous répondons a une question ou une situation précise.&nbsp;<span style=\"font-size: 1.07rem;\">On dresse la carte du ciel voir un thème horaire (Muhurta) pour analyser la situation.&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\">Par email ou telephone vous enverrez les coordonnées : jour, mois, année de naissance, ainsi que l'heure et la ville natale.  Nous convenons de l'heure et du jour.</span></p><p>Le paiement se fait par Paypal</p><p>\n</p>",
           "_tags": [
             "Theme"
           ],
@@ -6377,7 +6378,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Consultation en Astrologie Védique <br>(Eng ou Fr)",
+          "title": "Consultation en Astrologie Védique <br>(Fr)",
           "text": "<p>Ici nous faisons une carte du ciel natale complète en utilisant les méthodes d'astrologie Védique.&nbsp; Nous discutons des conditions de vie, karmas professionnels, de santé, relationnels, de l'impact de cette vie, des façons d'améliorer votre vie et toutes questions attachées à la période en cours.&nbsp; </p><p>On dresse la carte du ciel natale et étudions les différentes périodes, progressions et transits.&nbsp; Par email vous envoyez vos jour, mois année, et l'heure de naissance ainsi que la ville natate<span style=\"font-size: 1.07rem;\">.  Nous convenons de l'heure et du jour selon vos disponibilités et les miennes.</span></p><p>Le paiement se fait par Paypal (pour le moment je n'ai que cela)</p>",
           "_tags": [
             "Theme"
@@ -6496,6 +6497,380 @@
           "_name": "buttons1",
           "_sourceTheme": "mobirise3",
           "_anchor": "buttons1-66"
+        }
+      ]
+    },
+    "ConsultationsENG.html": {
+      "settings": {
+        "meta_descr": "Consulting services, astrology questions, phone consultations, poser une question, consultation",
+        "title": "ConsultationsENG",
+        "order": "2"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fac51c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-family": "'Raleway', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#3c465f"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#4a5675!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#505d7e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fac51c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fac51c"
+            }
+          },
+          "_name": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#505d7e",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Raleway",
+              "url": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "css": "'Raleway', sans-serif"
+            },
+            "fontColor": "#fac51c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "calendar",
+              "family": "Mobirise2",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME<br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"#\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">CONSULTATION<br> IN ASTROLOGY<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ConsultationsENG.html\" aria-expanded=\"true\">Consultations in English</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Consultations.html\" aria-expanded=\"true\">Consultations en Francais</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"SolsticesJyotish.pdf.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">ARTICLES (en &amp; fr)<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"JyotishAsVeda.html\" aria-expanded=\"false\">What is Vedic Astrology or Indian Astrology</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Medini1.html\" aria-expanded=\"false\">Astrologie Mondiale</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SuryaSiddhanta1.html\" aria-expanded=\"false\">Charts calculated with Surya Siddhanta &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/SolsticesJyotish.pdf\" aria-expanded=\"false\">Solstices et Equinoxes Sidéraux (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SolarYearSiddhanta.html\" aria-expanded=\"false\">Vinay Jha on the year length &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ayanamsa.html\" aria-expanded=\"false\">On the Original Ayanamsa &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AyanamsaFR.html\" aria-expanded=\"false\">A propos de l'ayanamsa original &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"ZodiacDef.html\" aria-expanded=\"false\">Le zodiaque vrai et supposé (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"GunasDoshasTable.html\" aria-expanded=\"false\">Gunas and Doshas in Astrology &nbsp; (eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Shankhya.html\" aria-expanded=\"false\">Shankhya Philosophy and Astrology &nbsp; &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasJyotish.html\" aria-expanded=\"false\">Dashas et Périodes en Astrologie&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Périodes zodiacales et planétaires.pdf\" aria-expanded=\"false\" target=\"_blank\">Périodes Aphètiques, Vimshottari, Décenniales, Chara&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Compatibilité en mariage selon la demeure lunaire.pdf\" aria-expanded=\"false\" target=\"_blank\">Kutas, compatibilité en mariage</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Périodes aphètique selon Valens.pdf\" aria-expanded=\"false\" target=\"_blank\">Interprétation des Périodes selon V. Valens</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/Printing _Transits _à la grecque_.pdf\" aria-expanded=\"false\" target=\"_blank\">Textes anciens sur les Transits selon les Grecs &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"RangSocial.html\" aria-expanded=\"false\">Traduction de Ptolémée \"Sur le Rang Social\" &nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/75-TheOriginalLomashaSamhita-1.pdf\" aria-expanded=\"false\" target=\"_blank\">Lomasha Samhita, Original text by ancient Rishi</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Wvtechniques.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WIN*VEGA 9&nbsp;<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVegaUpdates2022.html\" aria-expanded=\"false\" target=\"_blank\">Latest Updates<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WV7Intro.html\" target=\"_blank\">Win*Vega Installation&nbsp; &nbsp;(fr)<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVPresent.html\" aria-expanded=\"false\">Win*Vega Présentation &nbsp; &nbsp;(fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"SSWinVega.html\" aria-expanded=\"false\">Surya Siddhanta dans WinVega (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVscreens.html\" aria-expanded=\"false\">WinVega examples Screens &amp; Wheels &nbsp;(eng)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"Wvtechniques.html\" aria-expanded=\"false\">Techniques de Win*Vega &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"TradDignities.html#content1-1c\" aria-expanded=\"false\">Dignités traditionnelles &nbsp; (fr)</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"assets/files/MandookaDasha.pdf\" aria-expanded=\"false\">4 Mandooka Dashas dans WInVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DasasWV.html\" aria-expanded=\"false\">Les Dasas dans WinVega</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"DownloadWV.html\" aria-expanded=\"false\">Download WinVega</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">LINKS etc<br></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"AboutPierre.html\">A propos de l'auteur, about the author<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"WVLinks.html\">Liens, Links to history, Astrology, Philosophy News<br></a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=129&amp;item_name=Download%20WinVega%20v9&amp;currency_code=CAD\" target=\"_blank\">Buy Win*Vega Software<br></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"DownloadWV.html#msg-box1-2d\">DOWNLOAD</a></li>",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "menu-6k"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Consultations en astrologie Védique",
+          "text": "<p>Nous offrons plusieurs sortes de consultations.&nbsp; Une question, ou une consultation complète.&nbsp;&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box8-6l"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left",
+              "color": "#200f3c"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "19px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "22px"
+            },
+            ".lead": {
+              "color": "#200f3c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Question by phone<br>(Eng)&nbsp;",
+          "text": "<p>This allows answering a practical question in 20 min.&nbsp; &nbsp;This is for a precise question, best if it can be answered by yes or no.&nbsp; &nbsp;A chart is made (Muhurta) for the question.</p><p>Email or call me to clarify whether the question make astrological sense and can be answered.&nbsp; &nbsp;We decide of the time for the conversation together.&nbsp; &nbsp;Then you can pay here with the button below.&nbsp;</p><p>As yet I can only accept payment with Paypal</p><p>\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=60&amp;item_name=Astrology%20Question&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\">Question with Astrology,&nbsp; 60$ CA</a>",
+          "_name": "msg-box3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box3-6m"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "25px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "text-align": "left",
+              "color": "#200f3c"
+            },
+            ".lead P": {
+              "text-align": "left",
+              "font-size": "19px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            "P": {
+              "font-size": "22px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-size": "17px"
+            },
+            ".lead": {
+              "color": "#200f3c"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Consultation with Vedic Astrology<br>(Eng )",
+          "text": "<p>This is a full fledged natal chart using Vedic methods.&nbsp; &nbsp;We discuss the life conditions, professional, relationship karmas, health, impact in this life, the ways to improve your life.&nbsp; We discuss any questions relating to the current time period.</p><p>You email or call to give me your birthdata, hour, day and place of birth.&nbsp; We study&nbsp; the main chart and any appropriate chart to the theme needed.&nbsp; &nbsp;We analyse the various periods, transits, progressions.&nbsp; &nbsp;We agree on a time for the conversation and then you pay for it here, with the button below.&nbsp;</p><p>Payment can be done using Paypal (only choice so far)<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=160&amp;item_name=Astrology%20Consultation&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><p></p><p>Astrology Consultation&nbsp; 160$ CA&nbsp; &nbsp;&nbsp;</p></a>",
+          "_name": "msg-box3",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "msg-box3-6n"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Site created with Mobirise",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "",
+          "title1": "Categories",
+          "text5": "<li><a href=\"#\">Astrologie</a><a class=\"text-white\" href=\"#\"></a></li><li>Philosophie</li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><br></li>",
+          "text6": "<strong>Contacts</strong><br>Email: rock1v2@ymail.com<br>Phone: +1&nbsp;<br>Fax: +1<br><br><br><strong>Address</strong><br><br>City, Montreal",
+          "form": {
+            "title": "MESSAGE",
+            "action": "rock1v2@ymail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ecrivez n'importe quelle question. Contactez moi</a>",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "contacts3-6o"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">DOWNLOAD FOR WIN</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_sourceTheme": "mobirise3",
+          "_anchor": "buttons1-6p"
         }
       ]
     }
