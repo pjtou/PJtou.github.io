@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Shankhya.html",
+    "currentPage": "Consultations.html",
     "name": "Jyotish astrology",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       ]
     },
     "versionFirst": "3.10.3",
-    "uniqCompNum": 245,
+    "uniqCompNum": 247,
     "versionPublish": "5.8.14",
     "favicon": "@PROJECT_PATH@/assets/images/1654025970114-128x139.png",
     "noImageResize": "",
@@ -6401,7 +6401,7 @@
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=60&amp;item_name=Astrology%20Question&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\">Question en Astrologie,&nbsp; 60$ CA</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=60&amp;item_name=Astrology%20Question&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Question en Astrologie,&nbsp; 60$ CA</a>",
           "_name": "msg-box3",
           "_sourceTheme": "mobirise3",
           "_anchor": "msg-box3-6b"
@@ -6467,100 +6467,50 @@
           "_anchor": "msg-box3-6a"
         },
         {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "22px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Consultation Spéciale",
+          "text": "<p>Ce bouton permet d'acheter un travail ponctuel pour 120$.  Contacter l'auteur pour cela.</p><p>Nous utilisons Paypal</p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Site created with Mobirise",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "",
-          "title1": "Categories",
-          "text5": "<li><a href=\"#\">Astrologie</a><a class=\"text-white\" href=\"#\"></a></li><li>Philosophie</li><li><a class=\"text-white\" href=\"#\">Science</a></li><li><br></li>",
-          "text6": "<strong>Contacts</strong><br>Email: rock1v2@ymail.com<br>Phone: +1&nbsp;<br>Fax: +1<br><br><br><strong>Address</strong><br><br>City, Montreal",
-          "form": {
-            "title": "MESSAGE",
-            "action": "rock1v2@ymail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Ecrivez n'importe quelle question. Contactez moi</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=120&amp;item_name=Consultation&amp;currency_code=CAD\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Consultation 120$</a>",
+          "_name": "msg-box3",
           "_sourceTheme": "mobirise3",
-          "_anchor": "contacts3-63"
+          "_anchor": "msg-box3-6u"
         },
         {
           "_params": {
