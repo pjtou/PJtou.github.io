@@ -2345,6 +2345,7 @@ section.form .container {
 
 
 
+
 #menu-62 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -2478,6 +2479,10 @@ section.form .container {
 #msg-box3-6u .btn {
   font-size: 22px;
   font-family: 'Lora', serif;
+}
+#msg-box3-6u .lead P {
+  font-family: 'Lora', serif;
+  font-size: 19px;
 }
 
 
